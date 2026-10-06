@@ -98,6 +98,48 @@
 			"typeName": "shape"
 		},
 		{
+			"x": -94.29002042085696,
+			"y": 9751.448904671206,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:OCpEdDU554XCt94iBJ-fg",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 1042.234375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "The nerdctl tool works very similar to docker simply replace docker with nerdctl that's pretty straightforward"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b31s3E",
+			"typeName": "shape"
+		},
+		{
 			"x": 17.865440191579637,
 			"y": 3384.4015601340107,
 			"rotation": 0,
@@ -238,6 +280,40 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 317.12411947471253,
+			"y": 7563.237470398642,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:qfB8Uvq_GXQajfzNFpcKv",
+			"type": "line",
+			"props": {
+				"dash": "dotted",
+				"size": "s",
+				"color": "black",
+				"spline": "line",
+				"points": {
+					"a1": {
+						"id": "a1",
+						"index": "a1",
+						"x": 0,
+						"y": 0
+					},
+					"a2Spf": {
+						"id": "a2Spf",
+						"index": "a2Spf",
+						"x": 4.440892098500626e-15,
+						"y": 49.10108964518191
+					}
+				},
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "b2bBXj",
+			"typeName": "shape"
+		},
+		{
 			"x": 164.41320649128374,
 			"y": 4341.022455216986,
 			"rotation": 0,
@@ -274,6 +350,48 @@
 			},
 			"parentId": "page:page",
 			"index": "b1QZcI",
+			"typeName": "shape"
+		},
+		{
+			"x": 927.9089442813973,
+			"y": 9118.726069202196,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:AcrQKJWPYCQUmVegD55Za",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 82.328125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Terminal"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b2yH26",
 			"typeName": "shape"
 		},
 		{
@@ -786,6 +904,57 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 584.3805988350766,
+			"y": 8505.997465596829,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:si81oOuAK_MLhapmY8Jbv",
+			"type": "geo",
+			"props": {
+				"w": 408.4125797097563,
+				"h": 56,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Container Runtime Interface (CRI)"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b2pXoM",
+			"typeName": "shape"
+		},
+		{
 			"x": 1233.7734375,
 			"y": 1378.8125,
 			"rotation": 0,
@@ -997,6 +1166,99 @@
 			"typeName": "shape"
 		},
 		{
+			"x": -65.28932468934319,
+			"y": 9836.198326811722,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:EpfHive-wV0lPsBs7A7Uu",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 487,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "docker"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "docker run --name redis redis:alpine"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "docker run --name webserver -p 80:80 -d nginx"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b33ErA",
+			"typeName": "shape"
+		},
+		{
 			"x": -40.015625,
 			"y": 1824.0625,
 			"rotation": 0,
@@ -1048,6 +1310,53 @@
 			},
 			"parentId": "page:page",
 			"index": "b0CxaM",
+			"typeName": "shape"
+		},
+		{
+			"x": 475.91942213819993,
+			"y": 10063.322817520193,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:lWyf9dhdEmn7h-lM7ZZ40",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 87.40625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "crictl"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b3CU0zV",
 			"typeName": "shape"
 		},
 		{
@@ -1244,6 +1553,46 @@
 			},
 			"parentId": "page:page",
 			"index": "aWjQU",
+			"typeName": "shape"
+		},
+		{
+			"x": 316.50551055397887,
+			"y": 7615.9673462899145,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Yh7GtLAfz48dt0z8r59eh",
+			"type": "line",
+			"props": {
+				"dash": "dotted",
+				"size": "s",
+				"color": "black",
+				"spline": "line",
+				"points": {
+					"a1": {
+						"id": "a1",
+						"index": "a1",
+						"x": 0,
+						"y": 0
+					},
+					"a2eFI": {
+						"id": "a2eFI",
+						"index": "a2eFI",
+						"x": 209.80464242343797,
+						"y": -8.881784197001252e-16
+					},
+					"a1hlJ": {
+						"id": "a1hlJ",
+						"index": "a1hlJ",
+						"x": 106.18745946253894,
+						"y": -0.23524564591298303
+					}
+				},
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "b2cm0M",
 			"typeName": "shape"
 		},
 		{
@@ -1525,6 +1874,24 @@
 			"typeName": "shape"
 		},
 		{
+			"meta": {},
+			"id": "binding:VkBFriCan8lEQqDV7GW4j",
+			"type": "arrow",
+			"fromId": "shape:QzIrm-AF95ZI-TTmWVRqA",
+			"toId": "shape:EpfHive-wV0lPsBs7A7Uu",
+			"props": {
+				"isPrecise": true,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.1331072785452413,
+					"y": 0.1039799379892137
+				},
+				"snap": "none",
+				"terminal": "start"
+			},
+			"typeName": "binding"
+		},
+		{
 			"x": 636.0659373566,
 			"y": 3384.4015601340107,
 			"rotation": 0,
@@ -1576,9 +1943,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 47.625856008716255,
-			"y": -6372.717767716986,
-			"z": 1,
+			"x": 116.70792392469508,
+			"y": -9753.600966691152,
+			"z": 0.8966690932004411,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -1747,6 +2114,135 @@
 			},
 			"parentId": "page:page",
 			"index": "adD2M",
+			"typeName": "shape"
+		},
+		{
+			"x": 1146.8747202168795,
+			"y": 8372.98783483738,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:h2fw9IESC4lTvdHwx3bfm",
+			"type": "geo",
+			"props": {
+				"w": 110.43040515266784,
+				"h": 56,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "API"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b2kD5M",
+			"typeName": "shape"
+		},
+		{
+			"x": -77.35669031598437,
+			"y": 6888.988598005698,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:AYH1KbJTwq-3eK-ADo6e5",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 1557.3127217325725,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Your going to come across Docker and containerd many times going forward. So when you read older blogs or documentation pages, you will see Docker mentioned along with Kubernetes and when you read newer blogs you will see containerd and you will wonder what the difference is between two. and there are few CLI tools like ctr, crictl, nerdctl and you will wonder what are these CLI tools and which one should you be using?. In the begining of the container era there was Docker and there were other tools like rocket. But Docker's user experience made working with containers super simple, and hence Docker became the most dominant container tool. and then came Kubernetes to orchestrate Docker. So kubernetes was build to orchestrate Docker specifically in the begining. So Docker and Kubernetes only worked with Docker and didn't support any other container solutions. Then Kubernets grew in popularity as a container orchestrator. Now other container runtimes like rocket wanted in Kubernetes. Users needed it to work with container runtimes that are other than just Docker."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": " So, Kubernetes introduced an interface called Container Runtime Interface(CRI). So, CRI allowed any vendor to work as a container runtime for Kubernetes as long as they adhere to the OCI standards. OCI stands for open container initiative, and it consists of an image spec and a runtime spec. Image spec means the specification on how an image should be built. So that's what it defined. An image spec defined the specifications on how an image should be built, and the runtime spec defined the standards on how any container runtime should be developed. So keeping these standards in mind, anyone can build a container runtime that can be used by anybody to work with kubernets. So that was the idea. rocket and other container runtimes that adhere to OCI standards were now supported as container runtimes for kubernets via the CRI"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "However, Docker wasn't built to support the CRI standards because remember, Docker was built way before CRI was introduced and Docker still was the dominant container tool used by most Kubernetes had to continue to support Docker as well and so Kubernetes introduced what is known as Docker Shim, which was a hacky but temporary way to continue to support Docker outside of the container runtime interface. While most other container runtimes worked through the CRI, Docker continued to work without it. "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b2MogU",
 			"typeName": "shape"
 		},
 		{
@@ -1928,6 +2424,45 @@
 			},
 			"parentId": "page:page",
 			"index": "b1fT1U",
+			"typeName": "shape"
+		},
+		{
+			"x": 1025.0610396425411,
+			"y": 7766.093275989947,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:pdUwJMAr1gzVvtSuoP-kZ",
+			"type": "geo",
+			"props": {
+				"w": 215.32818122553442,
+				"h": 45.154094812710355,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b2T5hr",
 			"typeName": "shape"
 		},
 		{
@@ -2145,6 +2680,50 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 757.1728821588929,
+			"y": 8307.685386092326,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:nZY0uxcSDtDVCp7P_QKAE",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "dotted",
+				"size": "s",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 0,
+					"y": 0
+				},
+				"end": {
+					"x": 11.48129444080067,
+					"y": 195.49760083073807
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				},
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "b2hzWPY",
+			"typeName": "shape"
+		},
+		{
 			"x": 985.2109375,
 			"y": 975.25,
 			"rotation": 0,
@@ -2355,6 +2934,48 @@
 			},
 			"parentId": "page:page",
 			"index": "b1xcJf",
+			"typeName": "shape"
+		},
+		{
+			"x": -83.12020864084838,
+			"y": 9411.135583052344,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:714hpzFY1oEAV6aoDKvu9",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 1639.8823438359166,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "The recommended solution is nerdcontrol tool. The nerdcontrol tool is a command line tool that's very similar to Docker. So it's like Docker like CLI for containerd. It supports all or most of the features that docker supports. apart from that it has the added benefit that it can give us access to the newest features implemented into containerd."
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b2zx7I",
 			"typeName": "shape"
 		},
 		{
@@ -2622,6 +3243,181 @@
 			"typeName": "shape"
 		},
 		{
+			"x": -67.20627633493119,
+			"y": 8783.447922946732,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:cLMXaLg1-MBByc-CMMycT",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 109,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Containerd"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b2tCOM",
+			"typeName": "shape"
+		},
+		{
+			"x": 391.31798235510564,
+			"y": 7668.479402138677,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:SgUWFFd7GU7XyyBV8tigG",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 323.6171875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Container Runtime Interface (CRI)"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b2QVp6",
+			"typeName": "shape"
+		},
+		{
+			"x": -0.4660800378106842,
+			"y": 9848.831889277411,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:QzIrm-AF95ZI-TTmWVRqA",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "s",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 0,
+					"y": 0
+				},
+				"end": {
+					"x": 2,
+					"y": 0
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				},
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "b34Q5f",
+			"typeName": "shape"
+		},
+		{
+			"x": 976.5003746364285,
+			"y": 9794.899646751472,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:WGp617GrW2WmrEgFiAHId",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 82.328125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Terminal"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b3A1yQ",
+			"typeName": "shape"
+		},
+		{
 			"x": 437.4422711539588,
 			"y": 3115.8525095716473,
 			"rotation": 0,
@@ -2763,6 +3559,48 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 1087.2138105728782,
+			"y": 7778.465454404622,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:k4IV2cSumWhGaAyj5Rhmf",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 98.3125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "imagespec"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b2U4Rj",
+			"typeName": "shape"
+		},
+		{
 			"x": 555.1746352109498,
 			"y": 3155.1598351424523,
 			"rotation": 0,
@@ -2836,6 +3674,57 @@
 			},
 			"parentId": "page:page",
 			"index": "b1HlCn",
+			"typeName": "shape"
+		},
+		{
+			"x": 1269.6076013706177,
+			"y": 8436.739404879754,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:cLdbMFZTNQeZ1789CtcZC",
+			"type": "geo",
+			"props": {
+				"w": 132.2592361491586,
+				"h": 80,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "SECURITY"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b2mHCb",
 			"typeName": "shape"
 		},
 		{
@@ -3022,6 +3911,24 @@
 			"typeName": "binding"
 		},
 		{
+			"meta": {},
+			"id": "binding:5_Sl9HCgmhKlVr1EVnjh6",
+			"type": "arrow",
+			"fromId": "shape:M64p4JQVHt5nYo0NVJSFu",
+			"toId": "shape:0ZhfyaTxZdNq0TVbYHftT",
+			"props": {
+				"isPrecise": true,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.37029407227015554,
+					"y": 1
+				},
+				"snap": "edge",
+				"terminal": "start"
+			},
+			"typeName": "binding"
+		},
+		{
 			"x": 13.302303983026711,
 			"y": 2095.6590518847165,
 			"rotation": 0,
@@ -3155,6 +4062,24 @@
 			"parentId": "page:page",
 			"index": "b1Ux1n",
 			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "binding:LSEJXdd7BkFAb4770QkRh",
+			"type": "arrow",
+			"fromId": "shape:PzKZfVDuvQ_WcOzkCwjYV",
+			"toId": "shape:hmitCBgzH300HlhJvHH9E",
+			"props": {
+				"isPrecise": true,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.48215415770155606,
+					"y": 0.998238137682977
+				},
+				"snap": "none",
+				"terminal": "end"
+			},
+			"typeName": "binding"
 		},
 		{
 			"x": -18.516481008716255,
@@ -3422,12 +4347,12 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": "shape:WLn1Ew2X4hcPoqiu58gJh",
+			"editingShapeId": "shape:XDaL_xr5f6ayB5IynZz7N",
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:WLn1Ew2X4hcPoqiu58gJh"
+				"shape:XDaL_xr5f6ayB5IynZz7N"
 			],
-			"hoveredShapeId": "shape:WLn1Ew2X4hcPoqiu58gJh",
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -3476,6 +4401,146 @@
 			},
 			"parentId": "page:page",
 			"index": "b0bzOR",
+			"typeName": "shape"
+		},
+		{
+			"x": 571.8167387829919,
+			"y": 8252.2371160705,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:dW7gk7sh-U1OFQPiX8NsW",
+			"type": "geo",
+			"props": {
+				"w": 393.6748756334032,
+				"h": 56,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "containerd"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b2hz1g",
+			"typeName": "shape"
+		},
+		{
+			"x": 721.4939591954487,
+			"y": 9162.658723737877,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:mWLOEl6dUhL423Q5qcOoX",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 137.109375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Containerd"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b2xOSM",
+			"typeName": "shape"
+		},
+		{
+			"x": 587.2937084005875,
+			"y": 6819.628529548872,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:uC7bN6Unc7nrROGzEBMwm",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 217,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Docker vs Containerd"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b2LpLv",
 			"typeName": "shape"
 		},
 		{
@@ -3594,6 +4659,177 @@
 			},
 			"parentId": "page:page",
 			"index": "b0h9O6",
+			"typeName": "shape"
+		},
+		{
+			"x": 132.19054698128474,
+			"y": 8191.10809933997,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:SXQk9C0a4qXdjz-X4HS15",
+			"type": "geo",
+			"props": {
+				"w": 276.1261114914474,
+				"h": 153.04471826968984,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "rkt"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b2ffLQ",
+			"typeName": "shape"
+		},
+		{
+			"x": 1151.9237888023044,
+			"y": 8543.384097693564,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:h763JZ7AFxQBEtoaBBVTm",
+			"type": "geo",
+			"props": {
+				"w": 130.43064145610788,
+				"h": 56,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "v1.24"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b2sXDr",
+			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "binding:AZlMPSUefKKdU6xCw3STu",
+			"type": "arrow",
+			"fromId": "shape:nZY0uxcSDtDVCp7P_QKAE",
+			"toId": "shape:dW7gk7sh-U1OFQPiX8NsW",
+			"props": {
+				"isPrecise": false,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.5,
+					"y": 0.5
+				},
+				"snap": "center",
+				"terminal": "start"
+			},
+			"typeName": "binding"
+		},
+		{
+			"x": 1081.3152438216568,
+			"y": 8180.539470877293,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:KG3bemHQQDus_-eqwAmlu",
+			"type": "geo",
+			"props": {
+				"w": 230.26627974099824,
+				"h": 169.42914186743292,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "docker"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b2ioEQ",
 			"typeName": "shape"
 		},
 		{
@@ -3817,6 +5053,53 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 577.2493059147217,
+			"y": 9881.234798801477,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Yu_eQnrCjxPwku9efrTyr",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 400.6015625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "nerdctl run --name redis redis:alpine"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b38Ewn",
+			"typeName": "shape"
+		},
+		{
 			"x": 984.3671875,
 			"y": 1347.3984375,
 			"rotation": 0,
@@ -3997,6 +5280,50 @@
 			},
 			"parentId": "page:page",
 			"index": "b1aP26",
+			"typeName": "shape"
+		},
+		{
+			"x": 10.647098531144934,
+			"y": 9892.234710948327,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ovATX8mUcCcu-hlHKbBDJ",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "s",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 432.1767553484675,
+					"y": -0.11287108770557097
+				},
+				"end": {
+					"x": 555.1336886965606,
+					"y": -0.1449836033290449
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				},
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "b35jQM",
 			"typeName": "shape"
 		},
 		{
@@ -4202,6 +5529,40 @@
 			},
 			"parentId": "page:page",
 			"index": "b28zNy",
+			"typeName": "shape"
+		},
+		{
+			"x": 252.9891861575177,
+			"y": 8344.819346939748,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:0ZhfyaTxZdNq0TVbYHftT",
+			"type": "line",
+			"props": {
+				"dash": "dotted",
+				"size": "s",
+				"color": "black",
+				"spline": "line",
+				"points": {
+					"a1": {
+						"id": "a1",
+						"index": "a1",
+						"x": 0,
+						"y": 0
+					},
+					"a2tvv": {
+						"id": "a2tvv",
+						"index": "a2tvv",
+						"x": 0.37029407227015554,
+						"y": 99.23445496755812
+					}
+				},
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "b2qcHr",
 			"typeName": "shape"
 		},
 		{
@@ -4460,6 +5821,178 @@
 			},
 			"parentId": "page:page",
 			"index": "aATgr",
+			"typeName": "shape"
+		},
+		{
+			"x": -82.75413569794478,
+			"y": 10126.578581885084,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:XDaL_xr5f6ayB5IynZz7N",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 1620.6517311781524,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "features"
+								}
+							]
+						},
+						{
+							"type": "orderedList",
+							"attrs": {
+								"dir": "auto",
+								"start": 1,
+								"type": null
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "crictl provides a CLI for CRI-compatible container runtimes"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Installed separately"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Used to inspect and debug container runtimes"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\tNot to create Containers ideally"
+								}
+							]
+						},
+						{
+							"type": "orderedList",
+							"attrs": {
+								"dir": "auto",
+								"start": 4,
+								"type": null
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Works across different runtimes"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "The crictl tool is maintained and developed by Kubernetes community. The Crictl control is a command line utility that is used to interact with the CRI compatible container runtime. The ctr and nerdctl tool that were build by the container community specifically for containerd. This tool is from the Kubernetes perspective that works across different container runtimes. So it must be installed separately and is used to inspect and debug container runtime."
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b3Dc5U",
 			"typeName": "shape"
 		},
 		{
@@ -4791,6 +6324,148 @@
 			"typeName": "shape"
 		},
 		{
+			"x": -68.10369491008011,
+			"y": 8822.489987366567,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:4AnqmS_FCFSj0zyelzTKz",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 1600.7227382750618,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Containerd is although part of Docker is a separate project on it's own now and is a member of CNCF with the graduated status. So you can now install containerd on it's own without having to install Docker itself. So, if you don't really need Docker's other features, you could ideally just install containerd alone. So, typically we ran containers using the docker run command when we had docker. If docker isn't installed then how do you run containers with just containerd. containerd comes with a command line tool called ctr. This tool is solely made for debugging containerd and is not very user friendly as it only supports a limited set of features. "
+								}
+							]
+						},
+						{
+							"type": "orderedList",
+							"attrs": {
+								"dir": "auto",
+								"start": 1,
+								"type": null
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "ctr comes with containerd"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Not very user friendly"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Supports limited features only"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Other these limited set of features that it provides, if you want to interact with containerd, you will have to rely on making API calls directly, which is not the most user friendly way for us to operate. "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "This ctr command can be used to perform basic container related activities such as pull images and to run containers by specifing the address. This tool is solely made for debugging containerd and is not very user friendly and not to be used for running or managing containers on a production environment"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b2umr6",
+			"typeName": "shape"
+		},
+		{
 			"x": 930.2921127412837,
 			"y": 5171.999017716986,
 			"rotation": 0,
@@ -4926,6 +6601,146 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 581.1352154731334,
+			"y": 9837.230793813229,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:feDtzzGPqqd7tXf_bc67R",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 76.6015625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "nerdctl"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b37FvU",
+			"typeName": "shape"
+		},
+		{
+			"x": 79.6567091282721,
+			"y": 9146.610567025084,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:_gzsTNhM1zyGlSpjgfYfL",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 508.6015625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "ctr"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "ctr images pull docker .io/library/redis:alpine"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "ctr run docker .io/library/redis:alpine redis"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b2wAZA",
+			"typeName": "shape"
+		},
+		{
 			"x": -56.016481008716255,
 			"y": 5610.444330216986,
 			"rotation": 0,
@@ -4977,6 +6792,50 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 667.2480558082924,
+			"y": 7792.079207061613,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:PzKZfVDuvQ_WcOzkCwjYV",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "dotted",
+				"size": "s",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": 95.98117278206209,
+				"start": {
+					"x": 0,
+					"y": 0
+				},
+				"end": {
+					"x": 261.4929610355,
+					"y": -151.1627531023878
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				},
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "b2akWA",
+			"typeName": "shape"
+		},
+		{
 			"x": -16.20512090268698,
 			"y": 2941.271554412875,
 			"rotation": 0,
@@ -5016,6 +6875,104 @@
 			},
 			"parentId": "page:page",
 			"index": "b0dpyE",
+			"typeName": "shape"
+		},
+		{
+			"x": 580.1985892903324,
+			"y": 9935.550404602238,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:tjUoQlmn1iJZiS4C-fwKC",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 497.8046875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "nerdctl run --name webserver -p 80:80 -d nginx"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b39Jez",
+			"typeName": "shape"
+		},
+		{
+			"x": 1150.3816229013205,
+			"y": 8436.739404879754,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:uqDvia_tdtgxZlyCj4NP-",
+			"type": "geo",
+			"props": {
+				"w": 110.43040515266784,
+				"h": 78.23942634046216,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "AUTH"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b2nLzw",
 			"typeName": "shape"
 		},
 		{
@@ -5097,6 +7054,57 @@
 			},
 			"parentId": "page:page",
 			"index": "b0RptM",
+			"typeName": "shape"
+		},
+		{
+			"x": 522.5371323651065,
+			"y": 7399.236403990604,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:VDX3Oyj7pVBjtnizOPfZx",
+			"type": "geo",
+			"props": {
+				"w": 213.60740288969038,
+				"h": 166.41015607821828,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "docker"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b2OHJM",
 			"typeName": "shape"
 		},
 		{
@@ -5241,6 +7249,50 @@
 			},
 			"parentId": "page:page",
 			"index": "b0te6A",
+			"typeName": "shape"
+		},
+		{
+			"x": 10.594821720942036,
+			"y": 9948.488915127444,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:v6o1IJBELyN-C6lJNQSEb",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "s",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 432.1767553484675,
+					"y": -0.11287108770557097
+				},
+				"end": {
+					"x": 555.1336886965606,
+					"y": -0.1449836033290449
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				},
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "b36R1f",
 			"typeName": "shape"
 		},
 		{
@@ -5601,6 +7653,99 @@
 			"typeName": "shape"
 		},
 		{
+			"x": -74.22443810466396,
+			"y": 7958.223622687969,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:cWoXVAzZJr9hJjXb7rRt1",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 1642.381006325537,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Docker isn't just a container runtime alone. Docker consists of multiple tools that are put together, for example the Docker CLI, the DOcker API, the build tools that help in building images. There was support for volumes of security, and also container runtime called RunC the daemon that managed RunC was called as ContainerD. So, Containerd is CRI compatible and can work directly with Kubernetes as all other runtimes. So, Containerd can be used as a runtime on its own, separate from Docker. Now you have containerd as a separate runtime and Docker separately. So, Kubernetes containued to maintain support for Docker Engine directly. However, having to maintain the Docker Shim was an unnecessary effort and added complications, so it was decided in version 1.24 release of Kubernetes to remove Dockershim completely, and so support for Docker was removed. But you see all the images that were built before Docker was removed continue to work because docker followed the image spec from the OCI standard. So, all the images built by Docker follow the standard so they continue to work with containerd. But Docker itself was removed as a supported runtime from Kubernetes."
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b2eufA",
+			"typeName": "shape"
+		},
+		{
+			"x": 219.44489961068962,
+			"y": 7399.236403990604,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:0Gj-DiojEGodrezHHqpTj",
+			"type": "geo",
+			"props": {
+				"w": 213.60740288969038,
+				"h": 166.41015607821828,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "rkt"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b2NBd2",
+			"typeName": "shape"
+		},
+		{
 			"x": 446.5068631589022,
 			"y": 3136.575648491817,
 			"rotation": 0,
@@ -5692,6 +7837,178 @@
 			},
 			"parentId": "page:page",
 			"index": "b023Dn",
+			"typeName": "shape"
+		},
+		{
+			"x": 32.17629626153476,
+			"y": 9495.100853039836,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Wnoax_sU0CvUQhY5RBIPZ",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 476.96875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "orderedList",
+							"attrs": {
+								"dir": "auto",
+								"start": 1,
+								"type": null
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "nerdctl provides a docker like CLI for containerd"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "nerdctl supports Docker compose"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "nerdctl supports newest features in containerd"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\t\tnew Features"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\t\t1. Encrypted container images"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\t\t2. Lazy pulling"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\t\t3. P2P image distribution"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\t\t4. image signing and verifying "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\t\t5. Namespaces in Kubernetes"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b30SYz",
 			"typeName": "shape"
 		},
 		{
@@ -5933,6 +8250,57 @@
 			},
 			"parentId": "page:page",
 			"index": "b00dX2",
+			"typeName": "shape"
+		},
+		{
+			"x": 671.3909930168682,
+			"y": 8579.481235138634,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:1jKLDB7cpnyWs_amxuWmx",
+			"type": "geo",
+			"props": {
+				"w": 239.68046197836134,
+				"h": 154.76549660553428,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Kubernetes"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b2g0YE",
 			"typeName": "shape"
 		},
 		{
@@ -6200,6 +8568,45 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 74.0543776348668,
+			"y": 9132.696222709426,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:rug6CtprF468Oeyf3G77z",
+			"type": "geo",
+			"props": {
+				"w": 1017.241380534684,
+				"h": 170.2220068221759,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b2v9V6",
+			"typeName": "shape"
+		},
+		{
 			"x": -7.26096574029215,
 			"y": 3632.2889162165275,
 			"rotation": 0,
@@ -6239,6 +8646,50 @@
 			},
 			"parentId": "page:page",
 			"index": "b1Foyf",
+			"typeName": "shape"
+		},
+		{
+			"x": 923.7616506719709,
+			"y": 7579.844070439747,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:kKdW0mqIXKjRpR0VXmJ-1",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "dotted",
+				"size": "s",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": 56.68576014555457,
+				"start": {
+					"x": 0,
+					"y": 0
+				},
+				"end": {
+					"x": -186.54979720886593,
+					"y": -119.33488849055357
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				},
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "b2ZvSv",
 			"typeName": "shape"
 		},
 		{
@@ -6454,6 +8905,45 @@
 			"typeName": "shape"
 		},
 		{
+			"x": -74.35513013017066,
+			"y": 9813.518903985387,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:PDpYNL2iIrNG4noWzkhjX",
+			"type": "geo",
+			"props": {
+				"w": 1194.011193106251,
+				"h": 215.6374856859038,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b32jgQ",
+			"typeName": "shape"
+		},
+		{
 			"x": 452.03125,
 			"y": 1029.8671875,
 			"rotation": 0,
@@ -6544,6 +9034,57 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 829.2974546354232,
+			"y": 7584.880069822621,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:hmitCBgzH300HlhJvHH9E",
+			"type": "geo",
+			"props": {
+				"w": 206.5195387063544,
+				"h": 56,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "dockershim"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b2YPzm",
+			"typeName": "shape"
+		},
+		{
 			"meta": {},
 			"id": "binding:enQIqYb4jBQ9aTPZJ0D38",
 			"type": "arrow",
@@ -6560,6 +9101,48 @@
 				"terminal": "end"
 			},
 			"typeName": "binding"
+		},
+		{
+			"x": 1085.6890702752953,
+			"y": 7839.594471135151,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:kWrioqOjiXz4rCmw5-my8",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 113.21875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "runtimespec"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b2WtPQ",
+			"typeName": "shape"
 		},
 		{
 			"x": 665.323344141817,
@@ -6745,6 +9328,48 @@
 			},
 			"parentId": "page:page",
 			"index": "b0q61E",
+			"typeName": "shape"
+		},
+		{
+			"x": 988.4585596988464,
+			"y": 7722.991045977698,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:_M5FRKvEtFy6d6ABDQMNg",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 284.5546875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Open Container Initiative(OCI)"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b2S0aX",
 			"typeName": "shape"
 		},
 		{
@@ -7300,6 +9925,89 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 981.5405951486695,
+			"y": 7713.999434622808,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:-ssOh9Kk_9ZWrzi0ITmO8",
+			"type": "geo",
+			"props": {
+				"w": 313.7305636306969,
+				"h": 192.30895913287986,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b2RdOz",
+			"typeName": "shape"
+		},
+		{
+			"x": 524.4278103341094,
+			"y": 7614.486170000834,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:STMFnVUL6jLtJozzrpnLh",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "dotted",
+				"size": "s",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 0,
+					"y": 0
+				},
+				"end": {
+					"x": -0.0033530456894350635,
+					"y": 52.18784661550993
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				},
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "b2djx2",
+			"typeName": "shape"
+		},
+		{
 			"x": 222.92304957743352,
 			"y": 3524.0436613935667,
 			"rotation": 0,
@@ -7413,6 +10121,57 @@
 			},
 			"parentId": "page:page",
 			"index": "alNHU",
+			"typeName": "shape"
+		},
+		{
+			"x": 1027.9319078028477,
+			"y": 8372.98783483738,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:7Bbb41QF4lxEOQ6nLyhrF",
+			"type": "geo",
+			"props": {
+				"w": 110.43040515266784,
+				"h": 56,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "CLI"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b2jXBX",
 			"typeName": "shape"
 		},
 		{
@@ -7868,6 +10627,24 @@
 			"typeName": "shape"
 		},
 		{
+			"meta": {},
+			"id": "binding:ORIsJyTMVEx6sgrqa8SI2",
+			"type": "arrow",
+			"fromId": "shape:QzIrm-AF95ZI-TTmWVRqA",
+			"toId": "shape:PDpYNL2iIrNG4noWzkhjX",
+			"props": {
+				"isPrecise": true,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.5353850235429639,
+					"y": 0.17248833309762676
+				},
+				"snap": "none",
+				"terminal": "end"
+			},
+			"typeName": "binding"
+		},
+		{
 			"x": 601.6566521786232,
 			"y": 2186.1716473063093,
 			"rotation": 0,
@@ -8146,6 +10923,68 @@
 			"typeName": "shape"
 		},
 		{
+			"meta": {},
+			"id": "binding:yF4htF3fN8dgC8Ql0BNXp",
+			"type": "arrow",
+			"fromId": "shape:STMFnVUL6jLtJozzrpnLh",
+			"toId": "shape:Yh7GtLAfz48dt0z8r59eh",
+			"props": {
+				"isPrecise": true,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.9910121355408757,
+					"y": 0.2309644862862119
+				},
+				"snap": "edge",
+				"terminal": "start"
+			},
+			"typeName": "binding"
+		},
+		{
+			"x": 252.7713661150058,
+			"y": 8445.887846665257,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:M64p4JQVHt5nYo0NVJSFu",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "dotted",
+				"size": "s",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 0,
+					"y": 0
+				},
+				"end": {
+					"x": 515.135694703951,
+					"y": -1.9332792129171144
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				},
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "b2rs6b",
+			"typeName": "shape"
+		},
+		{
 			"x": 495.58508149128374,
 			"y": 6210.061517716986,
 			"rotation": 0,
@@ -8381,6 +11220,57 @@
 			},
 			"parentId": "page:page",
 			"index": "b1SBPb",
+			"typeName": "shape"
+		},
+		{
+			"x": 414.16730481460087,
+			"y": 7692.7619804779,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:DaU6Xs0Pki4hdSnewjtnT",
+			"type": "geo",
+			"props": {
+				"w": 251.8435331522241,
+				"h": 178.01560794325087,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Kubernetes"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b2PzZ3",
 			"typeName": "shape"
 		},
 		{
@@ -8672,6 +11562,53 @@
 			},
 			"parentId": "page:page",
 			"index": "a5r2z",
+			"typeName": "shape"
+		},
+		{
+			"x": 558.6474742842079,
+			"y": 9339.593944270257,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:M7SwaMzEfkuVk3Zc-TPYb",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 101.8046875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "nerdctl"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b3B99X",
 			"typeName": "shape"
 		},
 		{
@@ -8986,6 +11923,57 @@
 			"typeName": "binding"
 		},
 		{
+			"x": 1269.6076013706177,
+			"y": 8372.98783483738,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Ggd2a3V5UdvtUvD7QpvTU",
+			"type": "geo",
+			"props": {
+				"w": 110.43040515266784,
+				"h": 56,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "BUILD"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b2ltP6",
+			"typeName": "shape"
+		},
+		{
 			"x": -45.90633668649548,
 			"y": 3798.1213030209196,
 			"rotation": 0,
@@ -9265,6 +12253,45 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 1025.0610396425411,
+			"y": 7828.124067696477,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Z26dy9irto1W3sHgNKAt7",
+			"type": "geo",
+			"props": {
+				"w": 215.32818122553442,
+				"h": 45.154094812710355,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b2VlPn",
+			"typeName": "shape"
+		},
+		{
 			"x": 609.4459896087164,
 			"y": 3625.312290179234,
 			"rotation": 0,
@@ -9304,6 +12331,57 @@
 			},
 			"parentId": "page:page",
 			"index": "b1I8qI",
+			"typeName": "shape"
+		},
+		{
+			"x": 1007.021183721708,
+			"y": 8436.739404879754,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:EOO06j0BxWrY3i5siMpSj",
+			"type": "geo",
+			"props": {
+				"w": 134.66396941848961,
+				"h": 80,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "VOLUMES"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b2od42",
 			"typeName": "shape"
 		},
 		{
