@@ -356,6 +356,95 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 691.6953125,
+			"y": 7175.7109375,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:B82sT3CuOmPsh0SKyaNjF",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 141.40625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Pod With YAML"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b1CPVj",
+			"typeName": "shape"
+		},
+		{
+			"x": 195.3828125,
+			"y": 3271.33984375,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:CuMnIelbR9wPQXAdaopL2",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 39.359375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "XML"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "az4Pn",
+			"typeName": "shape"
+		},
+		{
 			"x": 164.41320649128374,
 			"y": 4341.022455216986,
 			"rotation": 0,
@@ -392,6 +481,87 @@
 			},
 			"parentId": "page:page",
 			"index": "b1QZcI",
+			"typeName": "shape"
+		},
+		{
+			"x": 22.5546875,
+			"y": 7015.671875,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:vaT9ltDHvkxnbhdPc3qFW",
+			"type": "geo",
+			"props": {
+				"w": 238.53125,
+				"h": 138.10546875,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b19Zov",
+			"typeName": "shape"
+		},
+		{
+			"x": 313.9375,
+			"y": 7025.3359375,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:SAnRzXjOcjCQHRNeEx3S7",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 200.875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Hash is for comments"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b1BdkU",
 			"typeName": "shape"
 		},
 		{
@@ -639,6 +809,121 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 29.171875,
+			"y": 7026.0078125,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:9HS9ZfBP0RD__vUeoi-IC",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 173.8046875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "# List of Fruits"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Fruits:"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "- Orange"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "- Apple"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "- Bannana"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b1APzW",
+			"typeName": "shape"
+		},
+		{
 			"x": -0.1953125,
 			"y": 1246.90625,
 			"rotation": 0,
@@ -746,6 +1031,90 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 370.203125,
+			"y": 4329.7734375,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:h4eKsYgPdGCzS6Y7fALS8",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 834.671875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "This is an example for list containing dictonaries Banana and grape are elements of lists"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0MQz7",
+			"typeName": "shape"
+		},
+		{
+			"x": 750.375,
+			"y": 5527.2265625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:hNTM0vH7lyWjz1Ns54t_4",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 175.265625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "List of Dictionaries"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0jJEI",
+			"typeName": "shape"
+		},
+		{
 			"x": 967.3828125,
 			"y": 916.109375,
 			"rotation": 0,
@@ -821,6 +1190,367 @@
 			},
 			"parentId": "page:page",
 			"index": "b1lKdr",
+			"typeName": "shape"
+		},
+		{
+			"x": 31.6171875,
+			"y": 4314.203125,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:V9CIl1S07P-EQimhMAt_h",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 227.8125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Fruits:"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "    - Banana:"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "        Calories: 105"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\t\t\t\t\t\tFat: 0.4 g"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\t\t\t\t\t\tCarbs: 27 g"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\t\t\t- Grape:"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\t\t\t\t\t\tCalories: 62"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\t\t\t\t\t\tFat: 0.3 g"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\t\t\t\t\t\tCarbs: 16 g"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0Lod6",
+			"typeName": "shape"
+		},
+		{
+			"x": 469.15625,
+			"y": 3764.359375,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:b_P6OZrcLEV95PIgWf-CT",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 173.8046875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Fruits:"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "-    Orange"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "-    Apple"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "-    Banana"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Vegetables:"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "-    Carrot"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "-    Cauliflower"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "-    Tomato"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0DRFI",
 			"typeName": "shape"
 		},
 		{
@@ -956,6 +1686,54 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 18.7734375,
+			"y": 6548.15625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:liZwD_Wi3HdsW70QDT8dC",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 151.3359375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Dictonaries/Map"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0tAPM",
+			"typeName": "shape"
+		},
+		{
 			"x": 522.5078125,
 			"y": 377.78515625,
 			"rotation": 0,
@@ -1058,6 +1836,48 @@
 			},
 			"parentId": "page:page",
 			"index": "aDClM",
+			"typeName": "shape"
+		},
+		{
+			"x": 995.4140625,
+			"y": 3713.7734375,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:_KlTRJMNuiP7j3q27zY-d",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 143.671875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Dictionary/Map"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0GusI",
 			"typeName": "shape"
 		},
 		{
@@ -1232,6 +2052,60 @@
 			},
 			"parentId": "page:page",
 			"index": "b2pXoM",
+			"typeName": "shape"
+		},
+		{
+			"x": 471.359375,
+			"y": 6834.046875,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:-UQ_FcSsBqGTqaabfWOtQ",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 433.0859375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "In lists order matters if the order is changed"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "then it will be considered as different Lists"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b17TpQ",
 			"typeName": "shape"
 		},
 		{
@@ -1479,6 +2353,45 @@
 			},
 			"parentId": "page:page",
 			"index": "b3aziN",
+			"typeName": "shape"
+		},
+		{
+			"x": 644.1484375,
+			"y": 5560.9765625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:f_xwtpXPBf5MK4V5lZDOE",
+			"type": "geo",
+			"props": {
+				"w": 485.640625,
+				"h": 909.7890625000001,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0rvnv",
 			"typeName": "shape"
 		},
 		{
@@ -1752,6 +2665,172 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 900.9921875,
+			"y": 3759.65625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:POpYtASmeuWZx4R9IQG02",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 184.609375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Banana:"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "    Calories: 105"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "    Fat: 0.4 g"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "    Carbs: 27 g"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Grapes:"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "    Calories: 62"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "    Fat: 0.3 g"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "    Carbs: 16g"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0HftA",
+			"typeName": "shape"
+		},
+		{
 			"x": 1372.980772417385,
 			"y": 11270.944095630497,
 			"rotation": 0,
@@ -1828,6 +2907,45 @@
 			},
 			"parentId": "page:page",
 			"index": "b3CU0zV",
+			"typeName": "shape"
+		},
+		{
+			"x": 18.1875,
+			"y": 6826.71875,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:HevNVhDqmwUcDXC1ULM0e",
+			"type": "geo",
+			"props": {
+				"w": 188.359375,
+				"h": 130.16796875,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b11xOM",
 			"typeName": "shape"
 		},
 		{
@@ -2152,6 +3270,108 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 355.5078125,
+			"y": 5749.80859375,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:FYl-juR--a9VDbJidyEQf",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 201.8125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "color: Green"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Model: "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\t\t\tName: Corvette"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\t\t\tYear: 1995"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Transmission: Manual"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Price: $20,000"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0oTUc",
+			"typeName": "shape"
+		},
+		{
 			"x": -39.28793748918742,
 			"y": 1915.770019506658,
 			"rotation": 0,
@@ -2289,6 +3509,60 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 1012.2109375,
+			"y": 6621.453125,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:mr1c-pMbMbmZZpAelaqZF",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 223.8984375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Dictonaries - Unordered"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "List- Ordered"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b18C1U",
+			"typeName": "shape"
+		},
+		{
 			"x": 628.4886477628664,
 			"y": 3523.649983251846,
 			"rotation": 0,
@@ -2421,6 +3695,72 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 583.33984375,
+			"y": 3619.04296875,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:kRzGZKySzxIG-pXGsoe0r",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 103.765625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Array/Lists"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0BaVX",
+			"typeName": "shape"
+		},
+		{
 			"x": 845.7015770915335,
 			"y": 3448.4533996456885,
 			"rotation": 0,
@@ -2469,6 +3809,57 @@
 			},
 			"parentId": "page:page",
 			"index": "b1AjIr",
+			"typeName": "shape"
+		},
+		{
+			"x": 620.51171875,
+			"y": 4983.5546875,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:m7wcHNqlImm1IXhy1A2ql",
+			"type": "geo",
+			"props": {
+				"w": 155,
+				"h": 89.02734375,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Transmission Manual"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0TUfN",
 			"typeName": "shape"
 		},
 		{
@@ -2575,8 +3966,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 203.8388329863369,
-			"y": -5926.160542164697,
+			"x": 186.37616320790903,
+			"y": -6314.704944734731,
 			"z": 0.9162401971183738,
 			"meta": {},
 			"id": "camera:page:page",
@@ -2669,6 +4060,45 @@
 			},
 			"parentId": "page:f68luzkeSOzKLbQERhXxs",
 			"index": "aNfCI",
+			"typeName": "shape"
+		},
+		{
+			"x": 964.6796875,
+			"y": 4777.3515625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:JjugCVml41hWq1WjZ82AN",
+			"type": "geo",
+			"props": {
+				"w": 258.56640625,
+				"h": 273.69140625,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0cefM",
 			"typeName": "shape"
 		},
 		{
@@ -2866,6 +4296,69 @@
 			},
 			"parentId": "page:f68luzkeSOzKLbQERhXxs",
 			"index": "ak7j2",
+			"typeName": "shape"
+		},
+		{
+			"x": 268.7265625,
+			"y": 4718.92578125,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:wvP4CKDuoRL9ZQujDthON",
+			"type": "geo",
+			"props": {
+				"w": 115.4609375,
+				"h": 60.296875,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 19.703125,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Color"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Blue"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0RhLr",
 			"typeName": "shape"
 		},
 		{
@@ -3067,6 +4560,226 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 29,
+			"y": 6839.0078125,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:RCTkSL26bm5FsHQMWxlL2",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 98.203125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Fruits"
+								},
+								{
+									"type": "text",
+									"text": ":"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "- Orange"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "- Apple"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "- Bannana"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b12fA2",
+			"typeName": "shape"
+		},
+		{
+			"x": 61.0859375,
+			"y": 7856.7890625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:-0L_J5qMPtQwSSP7TaJH8",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 1415.625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "We use spec to specify the container or image we need in the pod. Because a Pod can run multiple containers side-by-side the containers field expects a YAML list(indicated by the dash - )"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b1ItKE",
+			"typeName": "shape"
+		},
+		{
+			"x": 244.90234375,
+			"y": 7322.29296875,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:VS5IyPqTynpN6BEMbqzRx",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 174.6328125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "pod-defination.yml"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b1G9Tf",
+			"typeName": "shape"
+		},
+		{
+			"x": 542.8203125,
+			"y": 4869.71875,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:UIlKS7jFOUfnQIH7DSHCQ",
+			"type": "line",
+			"props": {
+				"dash": "draw",
+				"size": "s",
+				"color": "black",
+				"spline": "line",
+				"points": {
+					"a1": {
+						"id": "a1",
+						"index": "a1",
+						"x": 0,
+						"y": 0
+					},
+					"a2mGQ": {
+						"id": "a2mGQ",
+						"index": "a2mGQ",
+						"x": 67.8954645431474,
+						"y": -67.89546454314738
+					}
+				},
+				"scale": 1
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0X00z",
+			"typeName": "shape"
+		},
+		{
 			"x": 1098.1319564912837,
 			"y": 6376.952142716986,
 			"rotation": 0,
@@ -3142,6 +4855,45 @@
 			},
 			"parentId": "page:page",
 			"index": "b15Ftr",
+			"typeName": "shape"
+		},
+		{
+			"x": 366.3125,
+			"y": 5297.796875,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:1r3eRIz-SgIP9HMp9i4gl",
+			"type": "geo",
+			"props": {
+				"w": 306.56640625,
+				"h": 207.76171875,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0hcbb",
 			"typeName": "shape"
 		},
 		{
@@ -3826,10 +5578,10 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": "shape:TCnZBrnQataCr4fzM-Q8Z",
+			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:TCnZBrnQataCr4fzM-Q8Z"
+				"shape:dr5841kD7Z7CeZyfv3yPb"
 			],
 			"hoveredShapeId": null,
 			"erasingShapeIds": [],
@@ -3925,6 +5677,54 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 29.5546875,
+			"y": 5246.2109375,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:f-FRSGlNpc8HLkKO5-xc2",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 749.6796875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Similarly lets take an example of 6 cars and how it can be represented in YAML"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0fS0z",
+			"typeName": "shape"
+		},
+		{
 			"x": 677.4763570897837,
 			"y": 3112.4555136477293,
 			"rotation": 0,
@@ -4003,6 +5803,253 @@
 			},
 			"parentId": "page:page",
 			"index": "b1VzHs",
+			"typeName": "shape"
+		},
+		{
+			"x": 475.1640625,
+			"y": 3314.0625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:qYi_Z0l2eAOUWvXk-9jBr",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 187.703125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "{"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Servers: ["
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\t{"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\tname: Sever1,"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\towner: John,"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\tcreated: 12345,"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\tstatus: active,"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\t}"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t]"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "}"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b03o66",
+			"typeName": "shape"
+		},
+		{
+			"x": 65.0078125,
+			"y": 8065.9453125,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:x_eaxweT90RLhctqqVEqk",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 325,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "kubectl describe pod myapp-pod"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b1PtFU",
 			"typeName": "shape"
 		},
 		{
@@ -4361,6 +6408,45 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 463.42578125,
+			"y": 3295.46875,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:6ghspFcM15-p4dFmKMsyC",
+			"type": "geo",
+			"props": {
+				"w": 411.609375,
+				"h": 270.26171875,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b01uZn",
+			"typeName": "shape"
+		},
+		{
 			"x": 976.5003746364285,
 			"y": 9794.899646751472,
 			"rotation": 0,
@@ -4704,6 +6790,108 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 76.5625,
+			"y": 5562.109375,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:JeHOb9fS82pKeuNOZgufK",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 201.8125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "color: Blue"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Model: "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\t\t\tName: Corvette"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\t\t\tYear: 1995"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Transmission: Manual"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Price: $20,000"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0kpPf",
+			"typeName": "shape"
+		},
+		{
 			"x": 407.42822484295164,
 			"y": 3629.419530173266,
 			"rotation": 0,
@@ -4975,6 +7163,108 @@
 			},
 			"parentId": "page:f68luzkeSOzKLbQERhXxs",
 			"index": "a3zdu",
+			"typeName": "shape"
+		},
+		{
+			"x": 263.859375,
+			"y": 6841.90625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Ob0m4dyCQK0fkHLC8uJPs",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 98.203125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Fruits"
+								},
+								{
+									"type": "text",
+									"text": ":"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "- Orange"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "- Bannana"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "- Apple"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b15UVL",
 			"typeName": "shape"
 		},
 		{
@@ -5585,6 +7875,399 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 33.0859375,
+			"y": 3311.8984375,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:uB07_f81130xel-KQ87Aw",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 284.90625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "<Servers>"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\t<Server>"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\t<name>Server1</name>"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\t<owner>John</owner>"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\t<created>12345</created>"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\t<status>active</status>"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\t</Server>"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "</Servers>"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b00b5z",
+			"typeName": "shape"
+		},
+		{
+			"x": 203.9296875,
+			"y": 5123.625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:FBtXAOmpwaLXmGwDbeuy8",
+			"type": "line",
+			"props": {
+				"dash": "draw",
+				"size": "s",
+				"color": "black",
+				"spline": "line",
+				"points": {
+					"a1": {
+						"id": "a1",
+						"index": "a1",
+						"x": 0,
+						"y": 0
+					},
+					"a2Riz": {
+						"id": "a2Riz",
+						"index": "a2Riz",
+						"x": 101.44631361263582,
+						"y": -58.570056472550526
+					}
+				},
+				"scale": 1
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0aCV6",
+			"typeName": "shape"
+		},
+		{
+			"x": 26.046875,
+			"y": 3631.578125,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:bvQ1w61WSnSAEWVqGogE8",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 421.5234375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Key-Value Pair"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "if you take the data in its simplest form,"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Such as key value pair, this is how you would"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "define it in YAML. "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b07ML6",
+			"typeName": "shape"
+		},
+		{
+			"x": 898.1015625,
+			"y": 3322.4609375,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:UtOVIcUG4OLsL8chKsYCz",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 257.1484375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Servers:"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\t\t\t\t-    name: Server1"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\t\t\t\t\t    owner: John"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "      created: 12345"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "      status: active"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b06Lbz",
+			"typeName": "shape"
+		},
+		{
 			"x": 98.00614267594443,
 			"y": 11878.176814373137,
 			"rotation": 0,
@@ -5732,7 +8415,7 @@
 			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [],
-			"hoveredShapeId": "shape:FZQyNSDw7SQOlNNPD5DIh",
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -6115,6 +8798,138 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 976.8359375,
+			"y": 4802.640625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:5tSdX7yNG1W1p5iplWl6n",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 217,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Color: Blue"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Model: "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\t\tName: Corvette"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\t\tYear: 1995"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Transmission: Manual"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Price: $20,000"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0eDFv",
+			"typeName": "shape"
+		},
+		{
 			"x": 132.19054698128474,
 			"y": 8191.10809933997,
 			"rotation": 0,
@@ -6217,6 +9032,206 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 13.44140625,
+			"y": 4660.8671875,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:RgblsHV8J2m2H-nvDapqS",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 1438.46875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "A Car is a single object, and it has properties such as color, model, transmission, and price. To store different information or properties of a single object, we use a dictonary"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0O7Ui",
+			"typeName": "shape"
+		},
+		{
+			"x": 47.984375,
+			"y": 5311.3671875,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:eJaC6bwZEuuKjM4GtYU-4",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 163.828125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Blue Corvette"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Grey Corvette"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Red Corvette"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Green Corvette"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Blue Corvette"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Black Corvette"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0g86U",
+			"typeName": "shape"
+		},
+		{
 			"meta": {},
 			"id": "binding:AZlMPSUefKKdU6xCw3STu",
 			"type": "arrow",
@@ -6233,6 +9248,45 @@
 				"terminal": "start"
 			},
 			"typeName": "binding"
+		},
+		{
+			"x": 64.9375,
+			"y": 7931.96875,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:RtSxEt2TXsRcnfuDDJHEs",
+			"type": "geo",
+			"props": {
+				"w": 530.09765625,
+				"h": 67.234375,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b1JTKE",
+			"typeName": "shape"
 		},
 		{
 			"x": 1081.3152438216568,
@@ -6317,6 +9371,40 @@
 			},
 			"parentId": "page:page",
 			"index": "b1iG1M",
+			"typeName": "shape"
+		},
+		{
+			"x": 454.3359375,
+			"y": 4867.1015625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:WKkQjm_fpEQ1GAduklF2V",
+			"type": "line",
+			"props": {
+				"dash": "draw",
+				"size": "s",
+				"color": "black",
+				"spline": "line",
+				"points": {
+					"a1": {
+						"id": "a1",
+						"index": "a1",
+						"x": 0,
+						"y": 0
+					},
+					"a2L5E": {
+						"id": "a2L5E",
+						"index": "a2L5E",
+						"x": -69.75090179407312,
+						"y": -69.75090179407303
+					}
+				},
+				"scale": 1
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0WSzw",
 			"typeName": "shape"
 		},
 		{
@@ -6452,6 +9540,69 @@
 			},
 			"parentId": "page:page",
 			"index": "b09MZv",
+			"typeName": "shape"
+		},
+		{
+			"x": 609.265625,
+			"y": 4718.92578125,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:hV6pR-akJDy3d-DLSVw5x",
+			"type": "geo",
+			"props": {
+				"w": 115.4609375,
+				"h": 60.296875,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 19.703125,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Price"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "$20,000"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0QbQr",
 			"typeName": "shape"
 		},
 		{
@@ -6736,6 +9887,87 @@
 			},
 			"parentId": "page:page",
 			"index": "b14ZyU",
+			"typeName": "shape"
+		},
+		{
+			"x": 18.8046875,
+			"y": 3295.46875,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:R9D95mRj4t73JKJg7lYiq",
+			"type": "geo",
+			"props": {
+				"w": 411.609375,
+				"h": 269.3125,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "ayPaz",
+			"typeName": "shape"
+		},
+		{
+			"x": 625.0078125,
+			"y": 3273.4375,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:zAwRdcqzeM3cxcf3p7qCY",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 49.390625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "JSON"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b02jmj",
 			"typeName": "shape"
 		},
 		{
@@ -7081,8 +10313,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 101,
-			"y": -2212,
+			"x": -16,
+			"y": -7655,
 			"z": 1,
 			"meta": {},
 			"id": "camera:page:f68luzkeSOzKLbQERhXxs",
@@ -7167,6 +10399,108 @@
 			},
 			"parentId": "page:page",
 			"index": "b28zNy",
+			"typeName": "shape"
+		},
+		{
+			"x": 355.96875,
+			"y": 5925.59765625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:TaDABD0_NSU9kOlO0cUI8",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 201.8125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "color: Black"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Model: "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\t\t\tName: Corvette"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\t\t\tYear: 1995"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Transmission: Manual"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Price: $20,000"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0qQGU",
 			"typeName": "shape"
 		},
 		{
@@ -7710,6 +11044,144 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 14.94140625,
+			"y": 4043.4453125,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:QvEBiI0yfhPsaVTZ1wZS1",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 429.7421875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "The keys are fruits, vegetables, liquid and"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "meat and the values are apple, carrot, water"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "and chicken remember you must have a space"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "followed by color, differentiating the key"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "and the value"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0AD5M",
+			"typeName": "shape"
+		},
+		{
+			"x": 469.23046875,
+			"y": 4621.375,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:XNEE8p159xZfZuWwLEuCf",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 361.8515625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Dictonary vs List vs List of Dictionaries"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0NETn",
+			"typeName": "shape"
+		},
+		{
 			"x": 734.2803939912837,
 			"y": 6166.944330216986,
 			"rotation": 0,
@@ -7780,6 +11252,48 @@
 			},
 			"parentId": "page:page",
 			"index": "b3b3Us",
+			"typeName": "shape"
+		},
+		{
+			"x": 462.4609375,
+			"y": 4046.8359375,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:pIXEqWlWYUhS2OmQWe8tp",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 408.625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "This is how an array is represented we would say fruits followed by a colon. On the next line enter each item with a dash in the front. The dash indicates that it's an element of an array. Spaces are must"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0FGQf",
 			"typeName": "shape"
 		},
 		{
@@ -8043,6 +11557,69 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 268.7265625,
+			"y": 4983.5546875,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:aK4maF5P37v2nrAHaZreb",
+			"type": "geo",
+			"props": {
+				"w": 115.4609375,
+				"h": 60.296875,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 19.703125,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Model"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Corvette"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0SooE",
+			"typeName": "shape"
+		},
+		{
 			"x": 1116.4765625,
 			"y": 914.84375,
 			"rotation": 0,
@@ -8116,6 +11693,108 @@
 			},
 			"parentId": "page:page",
 			"index": "b3ioNX",
+			"typeName": "shape"
+		},
+		{
+			"x": 76.5625,
+			"y": 5925.59765625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Igd6ZcawwawlnhFeqSfwb",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 201.8125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "color: Blue"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Model: "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\t\t\tName: Corvette"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\t\t\tYear: 1995"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Transmission: Manual"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Price: $20,000"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0p31j",
 			"typeName": "shape"
 		},
 		{
@@ -8536,6 +12215,338 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 476.046875,
+			"y": 6616.984375,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:tmrDUARus27kro53KSxxx",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 408.1171875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Even though the order in the dictonary is different like Fat is first in first dictonary and Fat is last in the second dictonary they both are same"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0zzoB",
+			"typeName": "shape"
+		},
+		{
+			"x": 373.7109375,
+			"y": 5315.7265625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:xGYXOEhc7a7xe6OxD28Pr",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 179.984375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "- Blue Corvette"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "- Grey Corvette"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "- Red Corvette"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "- Green Corvette"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "- Blue Corvette"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "- Black Corvette"
+								},
+								{
+									"type": "text",
+									"text": " "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0iJAQ",
+			"typeName": "shape"
+		},
+		{
+			"x": -13.328125,
+			"y": 2990.3671875,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:UQj0aJoH0NY5q8WqUlyHm",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 1449.79296875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "YAML (stands for YAML Ain't Markup Language) is a human readable data serialization language. It is most commonly used to write configuration files for tools like Kubernetes, Docker compose, Ansible, and Github Actions. YAML was first created in 2001. "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Think of it as a cleaner, easier-to-read alternatives to JSON or XML. Instead of using complex brackets, tags, or braces, YAML relies strictly on indentation(spaces) to structure data."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Key Rules of YAML"
+								}
+							]
+						},
+						{
+							"type": "orderedList",
+							"attrs": {
+								"dir": "auto",
+								"start": 1,
+								"type": null
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Spaces, Not Tabs: you must use regular spaces ( usually 2 or 4) to indent your code. Using a Tab key will break the file."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Case Sensitivity: containers and Containers are treated as completely different things."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Key-value Pairs: Data is written as a key followed by a colon and a space(key:value)."
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "For example: here is a quick comparision of a sample data in three formats where we display a list of servers and their information."
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "axAGA",
+			"typeName": "shape"
+		},
+		{
 			"x": -20.65625,
 			"y": 530.9453125,
 			"rotation": 0,
@@ -8626,6 +12637,108 @@
 			},
 			"parentId": "page:page",
 			"index": "b1ue5f",
+			"typeName": "shape"
+		},
+		{
+			"x": 351.1015625,
+			"y": 5562.109375,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:axDH5lq3peZFuw4bS_ZFf",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 201.8125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "color: Grey"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Model: "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\t\t\tName: Corvette"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\t\t\tYear: 1995"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Transmission: Manual"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Price: $20,000"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0mbV6",
 			"typeName": "shape"
 		},
 		{
@@ -8804,6 +12917,48 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 1042.828125,
+			"y": 3273.5078125,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:rBoOTqsnYj7KyLfjc0wru",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 51.2265625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "YAML"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b05K7E",
+			"typeName": "shape"
+		},
+		{
 			"x": 1150.3816229013205,
 			"y": 8436.739404879754,
 			"rotation": 0,
@@ -8894,6 +13049,108 @@
 			},
 			"parentId": "page:f68luzkeSOzKLbQERhXxs",
 			"index": "aZEgQ",
+			"typeName": "shape"
+		},
+		{
+			"x": 76.5625,
+			"y": 5749.80859375,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:yjVJTHPMHB7ZXlM35ZdoF",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 201.8125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "color: Red"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Model: "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\t\t\tName: Corvette"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\t\t\tYear: 1995"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Transmission: Manual"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Price: $20,000"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0nDKj",
 			"typeName": "shape"
 		},
 		{
@@ -9014,6 +13271,132 @@
 			},
 			"parentId": "page:page",
 			"index": "b3Nm22",
+			"typeName": "shape"
+		},
+		{
+			"x": 471.84375,
+			"y": 7350.75,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:6SUoFp_Enc9dbliJ4y4Ht",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 1006.0664062499999,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "apiVersion: This is the version of the Kubernets API we are using to create the object. Depending on what we are trying to create, we must use the right API version. Few other possible values for this field are apps v1, beta, extensionsv1, etc"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Kind: It refers to the type of object we are trying to create, Which in this case happens to be a pod. Some other possible values here could be Replicaset or Deployment or Service"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "metadata: The metadata is data about the object like its name, label, etc, as you can see , unlike the first two this is in the form of a dictionary"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "The number of spaces before the two properties name and labels doesn't matter, but they should be the same as they are siblings"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "The name is a string value, so you can name your pod my app pod and the labels is a dictionary. So labels is a dictionary within the metada dictionary. At later point in time if you want to filter hundereds of pods running you can use these labels like front-end or backend or database. It will be difficult to group them once they are deployed. If you label them now as front-end, back-end or database, you will be able to filter the pods based on this label at a later point in time."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "It's important to note that under metadata, you can only specify name or labels or anything else that kubernetes expects to be under metadata"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b1HzzTV",
 			"typeName": "shape"
 		},
 		{
@@ -9197,6 +13580,48 @@
 			},
 			"parentId": "page:page",
 			"index": "b1vMt2",
+			"typeName": "shape"
+		},
+		{
+			"x": 37.296875,
+			"y": 7225.8984375,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Xftkar0MTN_OWsSS3K1lV",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 1434.90234375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Kubernetes uses YAML files as inputs for the creation of objects such as pods, replicas, deployments, Services, etc. all of these follow a similar structure. A Kubernetes definition file always contains four top level fields the API version, Kind, metadata, and Spec. These are top level or root level properties. These are also required fields, so you must have them in your configuration file."
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b1D1rf",
 			"typeName": "shape"
 		},
 		{
@@ -9464,6 +13889,87 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 48.484375,
+			"y": 7347.140625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:y0-zHJ16Lom7CNgawKBib",
+			"type": "geo",
+			"props": {
+				"w": 390.93359375,
+				"h": 488.375,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b1ESTX",
+			"typeName": "shape"
+		},
+		{
+			"x": 482.71875,
+			"y": 7908.33203125,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:kSzwxq7KiVKcOgXpIAU6j",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 82.328125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Terminal"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b1LU6u",
+			"typeName": "shape"
+		},
+		{
 			"meta": {},
 			"id": "binding:VRLRvunqR80Nw5sKasd_Q",
 			"type": "arrow",
@@ -9530,6 +14036,45 @@
 			},
 			"parentId": "page:page",
 			"index": "b10k56",
+			"typeName": "shape"
+		},
+		{
+			"x": 21.625,
+			"y": 6608.515625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:OO0i2c5_h3JWgmcInHICv",
+			"type": "geo",
+			"props": {
+				"w": 181.921875,
+				"h": 119.48828125,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0uY6b",
 			"typeName": "shape"
 		},
 		{
@@ -9943,6 +14488,45 @@
 			},
 			"parentId": "page:page",
 			"index": "b2eufA",
+			"typeName": "shape"
+		},
+		{
+			"x": 889.0859375,
+			"y": 3741.4453125,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:kxdrVolvf9DiZ0bHKT6IY",
+			"type": "geo",
+			"props": {
+				"w": 407.9296875,
+				"h": 289.1953125,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0ELNU",
 			"typeName": "shape"
 		},
 		{
@@ -10476,6 +15060,48 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 264.765625,
+			"y": 8024.03125,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:f2lWkedSD8swuaONo3BFW",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 576.15625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "use kubectl get pods command to see a list of pods available "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b1OTaU",
+			"typeName": "shape"
+		},
+		{
 			"x": 845.4132064912837,
 			"y": 6502.764642716986,
 			"rotation": 0,
@@ -10515,6 +15141,45 @@
 			},
 			"parentId": "page:page",
 			"index": "b2GzvN",
+			"typeName": "shape"
+		},
+		{
+			"x": 252.5078125,
+			"y": 6608.515625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:0BOlifKUjhjdFveQaYkQt",
+			"type": "geo",
+			"props": {
+				"w": 181.921875,
+				"h": 119.48828125,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0x0r6",
 			"typeName": "shape"
 		},
 		{
@@ -11032,6 +15697,244 @@
 			},
 			"parentId": "page:page",
 			"index": "b0IYyI",
+			"typeName": "shape"
+		},
+		{
+			"x": -14.953125,
+			"y": 2518.1328125,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:fgiFyM1vwK2lJDFw0SC1n",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 823.296875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "kubectl run nginx-pod  --image=nginx"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "create a standard pod named 'nginx-pod' running the Nginx image"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "kubectl run nginx-pod  --image=nginx  --restart=Never"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "create a pod and enforce it to run as a single independent pod( disabling  auto-restart)"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "kubectl get pods"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "lists all pods and shows if they are running or tracking errors"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "kubectl describe pod my-web-pod"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "shows detailed event logs, configurations, and deep status"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "kubectl logs my-web-pod"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Fetches stdout/stderr logs from the containers inside the pod"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "kubectl delete pod my-web-pod "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Deletes the pod when you no longer need it"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "avdMj",
+			"typeName": "shape"
+		},
+		{
+			"x": 620.1015625,
+			"y": 4982.2109375,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:R9stsYgH7GsLOXXEIa48W",
+			"type": "line",
+			"props": {
+				"dash": "draw",
+				"size": "s",
+				"color": "black",
+				"spline": "line",
+				"points": {
+					"a1": {
+						"id": "a1",
+						"index": "a1",
+						"x": 0,
+						"y": 0
+					},
+					"a2tK2": {
+						"id": "a2tK2",
+						"index": "a2tK2",
+						"x": -71.33497408587205,
+						"y": -71.33497408587198
+					}
+				},
+				"scale": 1
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0YZSM",
 			"typeName": "shape"
 		},
 		{
@@ -11949,6 +16852,45 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 887.3515625,
+			"y": 3295.46875,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:bh1fNZAOPJFXZsArDFqep",
+			"type": "geo",
+			"props": {
+				"w": 411.609375,
+				"h": 270.26171875,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b04Jpr",
+			"typeName": "shape"
+		},
+		{
 			"x": 197.05859375,
 			"y": 386.23046875,
 			"rotation": 0,
@@ -12033,6 +16975,104 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 28.5859375,
+			"y": 6621.515625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:3D3RMtqoSjCHHYWvGx8f0",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 166.109375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Banana:"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\tCalories: 105"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\tFat: 0.4 g"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\tCarbs: 27 g"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0vN5r",
+			"typeName": "shape"
+		},
+		{
 			"x": 665.323344141817,
 			"y": 3149.5671704074953,
 			"rotation": 0,
@@ -12064,6 +17104,48 @@
 			},
 			"parentId": "page:page",
 			"index": "b0iC9b",
+			"typeName": "shape"
+		},
+		{
+			"x": 985.5078125,
+			"y": 4756.3125,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:H29s6NOOf9PHN4hfh_U2O",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 220.171875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Dictionary in Dictionary"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0dHEn",
 			"typeName": "shape"
 		},
 		{
@@ -12303,6 +17385,45 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 21.3203125,
+			"y": 3741.4453125,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:pMkNFX2J8rEuCPYc3GbxE",
+			"type": "geo",
+			"props": {
+				"w": 407.9296875,
+				"h": 289.1953125,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b08mMU",
+			"typeName": "shape"
+		},
+		{
 			"x": 563.8023949493665,
 			"y": 11942.31887170137,
 			"rotation": 0,
@@ -12361,6 +17482,57 @@
 				"terminal": "start"
 			},
 			"typeName": "binding"
+		},
+		{
+			"x": 455.8359375,
+			"y": 4868.4453125,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:yrnMIG--5zz_q2upMRIpx",
+			"type": "geo",
+			"props": {
+				"w": 89.2890625,
+				"h": 56,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Car"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0PzJg",
+			"typeName": "shape"
 		},
 		{
 			"x": 567.3276481589164,
@@ -12433,6 +17605,69 @@
 			},
 			"parentId": "page:page",
 			"index": "b0p0sr",
+			"typeName": "shape"
+		},
+		{
+			"x": 355.95703125,
+			"y": 5126.7890625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:nSD_5i1pk3mDJGa987JjV",
+			"type": "geo",
+			"props": {
+				"w": 120,
+				"h": 75.671875,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 4.328125,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Year"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "1995"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0VFT6",
 			"typeName": "shape"
 		},
 		{
@@ -12517,6 +17752,90 @@
 			},
 			"parentId": "page:page",
 			"index": "b3cJnU",
+			"typeName": "shape"
+		},
+		{
+			"x": 23.421875,
+			"y": 6783.65625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:gu0nUDparBvA5HRlRdy1O",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 94.2421875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Array/List"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b10Fpf",
+			"typeName": "shape"
+		},
+		{
+			"x": 51.21875,
+			"y": 4264.9765625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:23FZ1Y5NJE1xVC-6hnnYp",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 242.890625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Key-Value/Dictionary/Lists"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0Jz89",
 			"typeName": "shape"
 		},
 		{
@@ -13185,6 +18504,40 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 406.5390625,
+			"y": 5123.328125,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:S_HIR_3AqrwHxd6IjniM3",
+			"type": "line",
+			"props": {
+				"dash": "draw",
+				"size": "s",
+				"color": "black",
+				"spline": "line",
+				"points": {
+					"a1": {
+						"id": "a1",
+						"index": "a1",
+						"x": 17.9453125,
+						"y": 3.703125
+					},
+					"a2bM2": {
+						"id": "a2bM2",
+						"index": "a2bM2",
+						"x": -59.31843368386452,
+						"y": -59.318433683864484
+					}
+				},
+				"scale": 1
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0biMj",
+			"typeName": "shape"
+		},
+		{
 			"x": 419.82726899128374,
 			"y": 3882.7412052169852,
 			"rotation": 0,
@@ -13350,6 +18703,648 @@
 			},
 			"parentId": "page:page",
 			"index": "b2djx2",
+			"typeName": "shape"
+		},
+		{
+			"x": 654.8515625,
+			"y": 5574.1640625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:EOIY7erddSVYqqNJr-Mj2",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 241.703125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "- Color: Blue"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\tModel:"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\t\t\tName: Corvette"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\t\t\tModel: 1995"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\tTransmission: Manual"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\tPrice: $20,000"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "- Color: Grey"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\tModel:"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\t\t\tName: Corvette"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\t\t\tModel: 1995"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\tTransmission: Manual"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\tPrice: $20,000"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "- Color: Red"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\tModel:"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\t\t\tName: Corvette"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\t\t\tModel: 1995"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\tTransmission: Manual"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\tPrice: $20,000"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "- Color: Green"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\tModel:"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\t\t\tName: Corvette"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\t\t\tModel: 1995"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\tTransmission: Manual"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\tPrice: $20,000"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "- Color: Blue"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\tModel:"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\t\t\tName: Corvette"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\t\t\tModel: 1995"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\tTransmission: Manual"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\tPrice: $20,000"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "- Color: Blue"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\tModel:"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\t\t\tName: Corvette"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\t\t\tModel: 1995"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\tTransmission: Manual"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\tPrice: $20,000"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0s6X2",
 			"typeName": "shape"
 		},
 		{
@@ -13554,6 +19549,156 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 351.1015625,
+			"y": 5562.109375,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Ya_AI86XUZ0PL19p_WYj8",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 201.8125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "color: Grey"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Model: "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\t\t\tName: Corvette"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\t\t\tYear: 1995"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Transmission: Manual"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Price: $20,000"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0lpg2",
+			"typeName": "shape"
+		},
+		{
+			"x": 611.3046875,
+			"y": 2950.890625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:12yH-yqU4D8YJp_Ox94Ov",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 51.2265625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "YAML"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "awjUL",
+			"typeName": "shape"
+		},
+		{
 			"x": 1027.9319078028477,
 			"y": 8372.98783483738,
 			"rotation": 0,
@@ -13647,6 +19792,48 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 630.0546875,
+			"y": 7926.015625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:AVQKSXuXr7WHkMTxUO6IS",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 553.078125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Run this command to creates pod the -f referes to the file "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b1MUXL",
+			"typeName": "shape"
+		},
+		{
 			"x": 360.671875,
 			"y": 1354.515625,
 			"rotation": 0,
@@ -13689,6 +19876,223 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 56.78125,
+			"y": 7368.65625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:NMomJGNi_Mee4Q48QT_Up",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 292.609375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "apiVersion: v1"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "kind: Pod"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "metadata:"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "  name: myapp-pod"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "  labels: "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "    app: myapp"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\t  type: front-end"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "spec:"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "  containers:"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "    - name: nginx-container"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "      image: nginx"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b1Fzvo",
+			"typeName": "shape"
+		},
+		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
 			"stylesForNextShape": {
@@ -13699,7 +20103,7 @@
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
-				"type": "default",
+				"type": "ew-resize",
 				"rotation": 0
 			},
 			"isFocusMode": false,
@@ -13737,6 +20141,45 @@
 			"id": "instance:instance",
 			"currentPageId": "page:f68luzkeSOzKLbQERhXxs",
 			"typeName": "instance"
+		},
+		{
+			"x": 457.0078125,
+			"y": 3741.4453125,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:_2uF1Ppg_FovT_D_ZwtDN",
+			"type": "geo",
+			"props": {
+				"w": 407.9296875,
+				"h": 289.1953125,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0CMHf",
+			"typeName": "shape"
 		},
 		{
 			"x": 229.26654375793998,
@@ -14153,6 +20596,53 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 77.1953125,
+			"y": 7956.21875,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:CXuq802sU7yOAjeqzjZyZ",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 389.8046875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "kubectl create -f pod-definition.yml"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b1KXj2",
+			"typeName": "shape"
+		},
+		{
 			"x": 597.5991185192102,
 			"y": 3374.1050503861247,
 			"rotation": 0,
@@ -14189,6 +20679,53 @@
 			},
 			"parentId": "page:page",
 			"index": "b11mtv",
+			"typeName": "shape"
+		},
+		{
+			"x": 64.5390625,
+			"y": 8020.875,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:DexfeOoCUsch9C8OMU6Qh",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 173.8046875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Kubectl get pods"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b1NzVi",
 			"typeName": "shape"
 		},
 		{
@@ -14258,6 +20795,104 @@
 			},
 			"parentId": "page:page",
 			"index": "b0LAOU",
+			"typeName": "shape"
+		},
+		{
+			"x": 257.0234375,
+			"y": 6618.9765625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:tufAMeCdpv2BKor7Cj1fd",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 166.109375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Banana:"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\tCalories: 105"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\tCarbs: 27 g"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "\t\tFat: 0.4 g"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0yXZr",
 			"typeName": "shape"
 		},
 		{
@@ -14483,6 +21118,53 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 226.859375,
+			"y": 6655.8984375,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:s3JfbdkvlfJ-q6fiHbGyN",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 16,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "="
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0w6Y2",
+			"typeName": "shape"
+		},
+		{
 			"x": 167.15539399128374,
 			"y": 6186.936517716986,
 			"rotation": 0,
@@ -14519,6 +21201,108 @@
 			},
 			"parentId": "page:page",
 			"index": "b20IV6",
+			"typeName": "shape"
+		},
+		{
+			"x": 252.93359375,
+			"y": 6826.71875,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:EBt0jBS8otNukAW1LGrFV",
+			"type": "geo",
+			"props": {
+				"w": 188.359375,
+				"h": 130.16796875,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b13Qpn",
+			"typeName": "shape"
+		},
+		{
+			"x": 152.734375,
+			"y": 5126.7890625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:30x1AJ-9OYdaklXxU6aN6",
+			"type": "geo",
+			"props": {
+				"w": 120,
+				"h": 75.671875,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 4.328125,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Name"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Corvette"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0U4tj",
 			"typeName": "shape"
 		},
 		{
@@ -15029,6 +21813,40 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 381.828125,
+			"y": 4982.7265625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:v4Ar0S1rkqaSK3qkh8QuV",
+			"type": "line",
+			"props": {
+				"dash": "draw",
+				"size": "s",
+				"color": "black",
+				"spline": "line",
+				"points": {
+					"a1": {
+						"id": "a1",
+						"index": "a1",
+						"x": 0,
+						"y": 0
+					},
+					"a2UJc": {
+						"id": "a2UJc",
+						"index": "a2UJc",
+						"x": 72.49309727923901,
+						"y": -72.49309727923898
+					}
+				},
+				"scale": 1
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0ZrEA",
+			"typeName": "shape"
+		},
+		{
 			"x": 202.03125,
 			"y": 229.875,
 			"rotation": 0,
@@ -15481,6 +22299,40 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 219.5703125,
+			"y": 6888.6484375,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:-qlaWyCiBigozr0rt31C1",
+			"type": "line",
+			"props": {
+				"dash": "draw",
+				"size": "s",
+				"color": "black",
+				"spline": "line",
+				"points": {
+					"a1": {
+						"id": "a1",
+						"index": "a1",
+						"x": 0,
+						"y": 0
+					},
+					"a2OlI": {
+						"id": "a2OlI",
+						"index": "a2OlI",
+						"x": 11.23046875,
+						"y": 14.0859375
+					}
+				},
+				"scale": 1
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b16UtzV",
+			"typeName": "shape"
+		},
+		{
 			"x": 229.26654375793998,
 			"y": 3449.610082845589,
 			"rotation": 0,
@@ -15529,6 +22381,45 @@
 			},
 			"parentId": "page:page",
 			"index": "b17JNj",
+			"typeName": "shape"
+		},
+		{
+			"x": 21.0625,
+			"y": 4299.34765625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:SHLpPeekxE4cjgLrT1-xq",
+			"type": "geo",
+			"props": {
+				"w": 318.953125,
+				"h": 285.75,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0K1f6",
 			"typeName": "shape"
 		},
 		{
@@ -15607,6 +22498,53 @@
 			},
 			"parentId": "page:page",
 			"index": "a6l3E",
+			"typeName": "shape"
+		},
+		{
+			"x": 220.875,
+			"y": 6883.7578125,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:gysX5O5-nZW2PMwZIx4L-",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 16,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "="
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b14QGQ",
 			"typeName": "shape"
 		},
 		{
@@ -15735,6 +22673,48 @@
 			},
 			"parentId": "page:page",
 			"index": "b3B99X",
+			"typeName": "shape"
+		},
+		{
+			"x": 412.0078125,
+			"y": 8070.1640625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:dr5841kD7Z7CeZyfv3yPb",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 1077.90234375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "To see detailed information about the pod, run the kubectl describe pod command. This will tell you information about the pod when it was created, what labels are assigned to it, what docker containers are part of it and the events associated with that pod"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b1Q78v",
 			"typeName": "shape"
 		},
 		{
@@ -16031,6 +23011,104 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 42.0546875,
+			"y": 3763.484375,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:2sfB0dOD48fDDmARa0ktQ",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 184.6015625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Fruit: Apple"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Vegetable: Carrot"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Liquid: Water"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Meat: Chicken"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b09BAQ",
+			"typeName": "shape"
+		},
+		{
 			"x": 952.34375,
 			"y": 961.59375,
 			"rotation": 0,
@@ -16104,6 +23182,48 @@
 			},
 			"parentId": "page:page",
 			"index": "aw3Ug",
+			"typeName": "shape"
+		},
+		{
+			"x": 896.7421875,
+			"y": 4046.5,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:iJzWHmWwDUSB50-FB-G5G",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 395.08984375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Notice the blank space before each item. you must have equal number of blank spaces before the properties of a single item. So, they are all aligned together. if you have one extra space for Fat or carbs it will result in a syntax error"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:f68luzkeSOzKLbQERhXxs",
+			"index": "b0IkT2",
 			"typeName": "shape"
 		},
 		{
