@@ -173,7 +173,7 @@
 								},
 								{
 									"type": "text",
-									"text": ": etcd is a distributed, reliable key value store used by kubernetes to store all data used to manage the cluster. Think of it this way when you have multiple nodes and multiple and multiple masters in your cluster, etcd stores all that information on all the nodes in the cluster in a distributed manner."
+									"text": ": etcd is a distributed, reliable key value store used by kubernetes to store all data used to manage the cluster. Think of it this way when you have multiple nodes and multiple masters in your cluster, etcd stores all that information on all the nodes in the cluster in a distributed manner."
 								}
 							]
 						},
@@ -411,6 +411,57 @@
 			},
 			"parentId": "page:f68luzkeSOzKLbQERhXxs",
 			"index": "b64cWb",
+			"typeName": "shape"
+		},
+		{
+			"x": 922.3736371811206,
+			"y": 2831.508755493509,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:8R6OXNkwH9_KNWqXSxnRd",
+			"type": "geo",
+			"props": {
+				"w": 221,
+				"h": 191.7265625,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Amazon Elastic Kubernetes Service (EKS)"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:5Tw1sUxTzmJnO9w0HFkVG",
+			"index": "b0Kkzs",
 			"typeName": "shape"
 		},
 		{
@@ -2074,8 +2125,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 425.2892582059921,
-			"y": 3152.9641663314133,
+			"x": 482.9106062485976,
+			"y": 3153.100531233052,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -2306,6 +2357,48 @@
 			},
 			"parentId": "page:f68luzkeSOzKLbQERhXxs",
 			"index": "b1APzW",
+			"typeName": "shape"
+		},
+		{
+			"x": 112.37363718112056,
+			"y": 2327.571255493509,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:HeXc9ME6WS4-c1UjRv5JX",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 285.3515625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Self-Hosted/ Turnkey Solutions"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:5Tw1sUxTzmJnO9w0HFkVG",
+			"index": "b0Cqf6",
 			"typeName": "shape"
 		},
 		{
@@ -4501,6 +4594,48 @@
 				"terminal": "start"
 			},
 			"typeName": "binding"
+		},
+		{
+			"x": -9.825581568879443,
+			"y": 2000.0946929935087,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:olhRLJ4xLoiqkPVuXWHmW",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 1460.0546875000002,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "For production purposes, there are many ways to get started with kubernetes cluster, both in a private or a public cloud environment. we would categorize them as  either self-hosted or turnkey solutions and hosted or managed solutions. So turnkey solutions are where you provision the required VM’s and use some kind of tools or scripts to configure the kubernetes cluster on them. So at the end of the day, you are responsible for maintaining those vm’s and patching them and upgrading them etc. but provisioning the cluster itself and managing the lifecycle of the cluster are mostly made easy using certain tools and scripts. For example, deploying a Kubernetes cluster on AWS can be made easy using tools like Cops or Cuban, etc., Hosted solutions or managed solutions are more like Kubernetes as a service solution where the cluster along with the required VM’s are deployed by the provider and Kubernetes is configured by them by the provider, so the VMs are maintained by the providers. For example, the Google container Engine lets you or the Google Kubernetes Engine (GKE)  lets you provision a Kubernetes cluster in a matter of minutes with just a few clicks, without having to perform any kind of configuration by yourself. So in these environments mostly you won’t have access to the master nodes or you most likely do not have access to the VM’s themselves to perform any kind of configuration changes on the master nodes. the version of Kubernetes and the master nodes are all managed by the provider."
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:5Tw1sUxTzmJnO9w0HFkVG",
+			"index": "b09mO6",
+			"typeName": "shape"
 		},
 		{
 			"x": 169.24816767849813,
@@ -11636,9 +11771,9 @@
 			"typeName": "binding"
 		},
 		{
-			"x": 186.37616320790903,
-			"y": -6314.704944734731,
-			"z": 0.9162401971183738,
+			"x": 224.48516029123866,
+			"y": -7293.16204353734,
+			"z": 0.9466276401351597,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -14701,6 +14836,144 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 664.4009809311206,
+			"y": 2388.375942993509,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ZypUU_M9cJCOsTMK5WQRO",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 343.734375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Kubernetes-as-a-service"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Provider provisions VMs"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Provider installs Kubernetes"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Provider maintains VMs"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "E.g: Google Container Engine(GKE)"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:5Tw1sUxTzmJnO9w0HFkVG",
+			"index": "b0FzGH",
+			"typeName": "shape"
+		},
+		{
 			"x": 996.2817601941754,
 			"y": 4736.676184486455,
 			"rotation": 0,
@@ -15126,10 +15399,8 @@
 		{
 			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:iWBOUcaFv1LaKqEqBtA0O"
-			],
-			"hoveredShapeId": null,
+			"selectedShapeIds": [],
+			"hoveredShapeId": "shape:_eAONwLK2W2EsFN_V9mDO",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -15220,7 +15491,7 @@
 							"content": [
 								{
 									"type": "text",
-									"text": "So far we saw two types of servers master and worker, and a set of components that make up Kubernetes. But how are these components distributed across different types of servers?. In other words, how does one server become a master and the other the slave? The worker node or minion as it is also known, is where the containers are hosted. For example, Docker containers and to run docker containers on a system we need container runtime installed. That's where the container runtime falls. In this case it happens to be Docker. This doesn't have to be Docker. There are other container runtime alternatives available, such as Rocker or Cryo. But throughout this course we are going to use Docker as our container runtime engine. The master server has the Kube API server and that is what makes it a master. Similarly, the worker nodes have the Kubelet agent that is responsible for interacting with the master to provide health information of the worker node and carryout actions requested by the master on the worker nodes.  All these information gathered are stored in a key value store on the master. The key value store is based on the popular etcd framework. As we just discussed the master also has the control manager and the scheduler. There are other components as well. The reason we went through this is to understand what components constitue the master and worker nodes. This will help us install and configure the right components on different systems."
+									"text": "So far we saw two types of servers master and worker, and a set of components that make up Kubernetes. But how are these components distributed across different types of servers?. In other words, how does one server become a master and the other the slave? The worker node or minion as it is also known, is where the containers are hosted. For example, Docker containers and to run docker containers on a system we need container runtime installed. That's where the container runtime falls. In this case it happens to be Docker. This doesn't have to be Docker. There are other container runtime alternatives available, such as Rocket or Cryo. But throughout this course we are going to use Docker as our container runtime engine. The master server has the Kube API server and that is what makes it a master. Similarly, the worker nodes have the Kubelet agent that is responsible for interacting with the master to provide health information of the worker node and carryout actions requested by the master on the worker nodes.  All these information gathered are stored in a key value store on the master. The key value store is based on the popular etcd framework. As we just discussed the master also has the control manager and the scheduler. There are other components as well. The reason we went through this is to understand what components constitue the master and worker nodes. This will help us install and configure the right components on different systems."
 								}
 							]
 						}
@@ -15536,8 +15807,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 677.4763570897837,
-			"y": 3112.4555136477293,
+			"x": 735.0977051323893,
+			"y": 3112.591878549368,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -16489,6 +16760,50 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 724.6626996811206,
+			"y": 1224.5946929935087,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:vSm9OcYgEia789HESdRlO",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "s",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 0,
+					"y": 0
+				},
+				"end": {
+					"x": 0,
+					"y": 42.04896760777704
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				},
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:5Tw1sUxTzmJnO9w0HFkVG",
+			"index": "b06g1v",
+			"typeName": "shape"
+		},
+		{
 			"x": 680.8893840370529,
 			"y": 17783.095209162988,
 			"rotation": 0,
@@ -16647,6 +16962,50 @@
 			},
 			"parentId": "page:page",
 			"index": "acA7r",
+			"typeName": "shape"
+		},
+		{
+			"x": 724.5259809311206,
+			"y": 1185.7509429935087,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:XQ77gEWtT6SgvjOlc4g06",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "s",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 0,
+					"y": 0
+				},
+				"end": {
+					"x": -35.18359375,
+					"y": -2.91796875
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				},
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:5Tw1sUxTzmJnO9w0HFkVG",
+			"index": "ajy3Ql",
 			"typeName": "shape"
 		},
 		{
@@ -17488,8 +17847,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 437.4422711539588,
-			"y": 3115.8525095716473,
+			"x": 495.06361919656433,
+			"y": 3115.988874473286,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -17978,8 +18337,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 555.1746352109498,
-			"y": 3155.1598351424523,
+			"x": 612.7959832535553,
+			"y": 3155.296200044091,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -20278,7 +20637,7 @@
 								},
 								{
 									"type": "text",
-									"text": "The command line tool or cube CTL or cube control, as it is also called the cube control tool, is used to deploy and manage applications on a Kubernetes cluster to get cluster information, to get the status of other nodes in the cluster, and to manage many other things"
+									"text": "The command line tool or Kube CTL or Kube control, as it is also called the cube control tool, is used to deploy and manage applications on a Kubernetes cluster to get cluster information, to get the status of other nodes in the cluster, and to manage many other things"
 								}
 							]
 						},
@@ -20735,6 +21094,48 @@
 			},
 			"parentId": "page:JovrcF97X_PRHRO9ZdSRz",
 			"index": "aCKHX",
+			"typeName": "shape"
+		},
+		{
+			"x": 728.6900434311206,
+			"y": 1180.7040679935087,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:USCz92EkYYEcbuOrPR14P",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 66.453125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "service"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:5Tw1sUxTzmJnO9w0HFkVG",
+			"index": "b07uQI",
 			"typeName": "shape"
 		},
 		{
@@ -22257,7 +22658,9 @@
 		{
 			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [],
+			"selectedShapeIds": [
+				"shape:FZQyNSDw7SQOlNNPD5DIh"
+			],
 			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
@@ -22752,7 +23155,7 @@
 							"content": [
 								{
 									"type": "text",
-									"text": "Kubernetes is just a container orchestration technology. There are multiplesuch technologies available today. Docker swarm from docker, Kubernetes from Google and Mesos from Apache."
+									"text": "Kubernetes is just a container orchestration technology. There are multiple such technologies available today. Docker swarm from docker, Kubernetes from Google and Mesos from Apache."
 								}
 							]
 						}
@@ -22762,6 +23165,24 @@
 			"parentId": "page:page",
 			"index": "b0V6ZQ",
 			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "binding:kBz6KPSexb0_OWOTRO_zH",
+			"type": "arrow",
+			"fromId": "shape:XQ77gEWtT6SgvjOlc4g06",
+			"toId": "shape:jZOnhhGiEdJuDg5Lxm8-t",
+			"props": {
+				"isPrecise": true,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.9134944216512182,
+					"y": 0.44475668515595446
+				},
+				"snap": "none",
+				"terminal": "end"
+			},
+			"typeName": "binding"
 		},
 		{
 			"x": 480.2134634642814,
@@ -23287,8 +23708,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 686.744266933951,
-			"y": 3161.2968649003037,
+			"x": 744.3656149765566,
+			"y": 3161.4332298019426,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -27124,8 +27545,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 686.540949094727,
-			"y": 3133.178652567899,
+			"x": 744.1622971373325,
+			"y": 3133.315017469538,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -27332,9 +27753,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 60.61061596294712,
-			"y": -18023.325677912988,
-			"z": 1,
+			"x": 73.12438149711198,
+			"y": -18083.03438125841,
+			"z": 1.0800810154075375,
 			"meta": {},
 			"id": "camera:page:f68luzkeSOzKLbQERhXxs",
 			"typeName": "camera"
@@ -27824,6 +28245,48 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 547.6509809311206,
+			"y": 2739.352505493509,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:66nVVRZrUl2zif5W7EDh2",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 153.6640625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "hosted solutions"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:5Tw1sUxTzmJnO9w0HFkVG",
+			"index": "b0Hxpv",
+			"typeName": "shape"
+		},
+		{
 			"x": 835.5762926784981,
 			"y": 12869.244128503535,
 			"rotation": 0,
@@ -28133,6 +28596,50 @@
 			},
 			"parentId": "page:page",
 			"index": "aATgr",
+			"typeName": "shape"
+		},
+		{
+			"x": 724.7603559311206,
+			"y": 1243.6493804935087,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:7h9iO3-hukq1jAUrMVd2H",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "s",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 0,
+					"y": 0
+				},
+				"end": {
+					"x": 6.661338147750939e-16,
+					"y": -115.91217399427087
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				},
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:5Tw1sUxTzmJnO9w0HFkVG",
+			"index": "b05K8z",
 			"typeName": "shape"
 		},
 		{
@@ -28500,8 +29007,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 446.22367355338093,
-			"y": 3164.4554721762966,
+			"x": 503.84502159598645,
+			"y": 3164.5918370779355,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -29487,8 +29994,8 @@
 			"typeName": "binding"
 		},
 		{
-			"x": 576.5955580030839,
-			"y": 3166.8895296352607,
+			"x": 634.2169060456894,
+			"y": 3167.0258945368996,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -33875,7 +34382,7 @@
 							"content": [
 								{
 									"type": "text",
-									"text": "The name is a string value, so you can name your pod my app pod and the labels is a dictionary. So labels is a dictionary within the metada dictionary. At later point in time if you want to filter hundereds of pods running you can use these labels like front-end or backend or database. It will be difficult to group them once they are deployed. If you label them now as front-end, back-end or database, you will be able to filter the pods based on this label at a later point in time."
+									"text": "The name is a string value, so you can name your pod my app pod and the labels is a dictionary. So labels is a dictionary within the metadata dictionary. At later point in time if you want to filter hundereds of pods running you can use these labels like front-end or backend or database. It will be difficult to group them once they are deployed. If you label them now as front-end, back-end or database, you will be able to filter the pods based on this label at a later point in time."
 								}
 							]
 						},
@@ -34243,7 +34750,7 @@
 								},
 								{
 									"type": "text",
-									"text": "The controllers are the brain behind orchestration. They are responsible for noticing and ressponding when nodes, containers or endpoints goes down, the controllers make decisions to bring up new containers. In such cases, the container runtime is the underlying software that is used to run containers. In our case, it happens to be Docker, but there are other options as well"
+									"text": "The controllers are the brain behind orchestration. They are responsible for noticing and responding when nodes, containers or endpoints goes down, the controllers make decisions to bring up new containers. In such cases, the container runtime is the underlying software that is used to run containers. In our case, it happens to be Docker, but there are other options as well"
 								}
 							]
 						}
@@ -34830,12 +35337,10 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": "shape:tWZgsSsRROz9agfZ15tMS",
+			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:tWZgsSsRROz9agfZ15tMS"
-			],
-			"hoveredShapeId": "shape:tWZgsSsRROz9agfZ15tMS",
+			"selectedShapeIds": [],
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -35101,6 +35606,60 @@
 			},
 			"parentId": "page:page",
 			"index": "b10k56",
+			"typeName": "shape"
+		},
+		{
+			"x": 725.9166059311206,
+			"y": 2326.969692993509,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:3dDGwnHjG8yZTDr7T74cP",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 192,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Hosted Solutions"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "(Managed Solutions)"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:5Tw1sUxTzmJnO9w0HFkVG",
+			"index": "b0DlHE",
 			"typeName": "shape"
 		},
 		{
@@ -36675,6 +37234,54 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 589.3853559311206,
+			"y": 1965.7978179935087,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:13UAsJ3szd4xtAc5yCbEJ",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 193.3125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Kubernetes on Cloud"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						}
+					]
+				}
+			},
+			"parentId": "page:5Tw1sUxTzmJnO9w0HFkVG",
+			"index": "b08l8I",
+			"typeName": "shape"
+		},
+		{
 			"x": 580.4843750000001,
 			"y": -186.01171875,
 			"rotation": 0,
@@ -37252,7 +37859,7 @@
 							"content": [
 								{
 									"type": "text",
-									"text": "So what is a replica and why do we need a replication controller? Suppose let’s take an example that we had a single pod running our application. What if for some reason our application crashes and the pod fails, users will no longer be able to access our application. To prevent users from losing access to our application, we would like to have more than one instance or pod running at the same time that way, if one fails we still have our application running on the other one. The replication controller helps us run multiple instances of a single pod in the kubernetes cluster, thus providing high availability. Even if you have a single pod, replication controller can help by automatically bringing up a new pod when the existing on fails"
+									"text": "So what is a replica and why do we need a replication controller? Suppose let’s take an example that we had a single pod running our application. What if for some reason our application crashes and the pod fails, users will no longer be able to access our application. To prevent users from losing access to our application, we would like to have more than one instance or pod running at the same time that way, if one fails we still have our application running on the other one. The replication controller helps us run multiple instances of a single pod in the kubernetes cluster, thus providing high availability. Even if you have a single pod, replication controller can help by automatically bringing up a new pod when the existing one fails"
 								}
 							]
 						}
@@ -37490,8 +38097,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 446.5068631589022,
-			"y": 3136.575648491817,
+			"x": 504.1282112015077,
+			"y": 3136.712013393456,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -39389,6 +39996,45 @@
 			},
 			"parentId": "page:JovrcF97X_PRHRO9ZdSRz",
 			"index": "b4Ckuf",
+			"typeName": "shape"
+		},
+		{
+			"x": 650.4634809311206,
+			"y": 2313.274380493509,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:-PEVQMyE3rEe6voCpyHHE",
+			"type": "geo",
+			"props": {
+				"w": 343.984375,
+				"h": 219.46875,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:5Tw1sUxTzmJnO9w0HFkVG",
+			"index": "b0BecE",
 			"typeName": "shape"
 		},
 		{
@@ -41912,6 +42558,57 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 574.9478559311206,
+			"y": 2831.508755493509,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:AMc9Zn8dkGmcTV5PN6oWo",
+			"type": "geo",
+			"props": {
+				"w": 221,
+				"h": 191.7265625,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Azure Kubernetes Service(AKS)"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:5Tw1sUxTzmJnO9w0HFkVG",
+			"index": "b0J2tr",
+			"typeName": "shape"
+		},
+		{
 			"x": 487.2302716567572,
 			"y": 8590.451046508366,
 			"rotation": 0,
@@ -43533,7 +44230,7 @@
 							"content": [
 								{
 									"type": "text",
-									"text": "Kubernetes services enable communication between various components within and outside of the application. Kubernetes services helps us connect applications together with other applications or users. For example, our application has groups of pods running various sections, such as a group for serving a front end load to users, another group for running backend processes, and a third group connecting to an external data source. It is services that enable connectivity between these groups of pods. Services enable the front end application to be made available to end users. It helps communication between backend and frontend pods and helps in establishing connectivity to an external data source. It helps communication between backend and frontend pods and helps in establishing connectivity to an external data source. Thus services enable loose coupling between microservices in our application."
+									"text": "Kubernetes services enable communication between various components within and outside of the application. Kubernetes services helps us connect applications together with other applications or users. For example, our application has groups of pods running various sections, such as a group for serving a front end load to users, another group for running backend processes, and a third group connecting to an external data source. It is services that enable connectivity between these groups of pods. Services enable the front end application to be made available to end users. It helps communication between backend and frontend pods and helps in establishing connectivity to an external data source. Thus services enable loose coupling between microservices in our application."
 								}
 							]
 						}
@@ -43942,10 +44639,12 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": null,
+			"editingShapeId": "shape:ulygebSdecHhqvOA5gMXy",
 			"croppingShapeId": null,
-			"selectedShapeIds": [],
-			"hoveredShapeId": null,
+			"selectedShapeIds": [
+				"shape:ulygebSdecHhqvOA5gMXy"
+			],
+			"hoveredShapeId": "shape:ulygebSdecHhqvOA5gMXy",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -45738,8 +46437,8 @@
 			"typeName": "binding"
 		},
 		{
-			"x": 665.323344141817,
-			"y": 3149.5671704074953,
+			"x": 722.9446921844225,
+			"y": 3149.703535309134,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -46169,8 +46868,8 @@
 			"typeName": "binding"
 		},
 		{
-			"x": 576.1090505583386,
-			"y": 3166.6511409873356,
+			"x": 633.7303986009441,
+			"y": 3166.7875058889745,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -47468,16 +48167,16 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 34.04433156887944,
-			"y": -1210.5712554935087,
-			"z": 1,
+			"x": 3722.5110950692697,
+			"y": 1366.5442218213295,
+			"z": 0.17586304574023393,
 			"meta": {},
 			"id": "camera:page:5Tw1sUxTzmJnO9w0HFkVG",
 			"typeName": "camera"
 		},
 		{
-			"x": 567.3276481589164,
-			"y": 3118.0481783826863,
+			"x": 624.9489962015219,
+			"y": 3118.184543284325,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -47641,8 +48340,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 576.3922401638598,
-			"y": 3138.771317302856,
+			"x": 634.0135882064653,
+			"y": 3138.907682204495,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -49434,7 +50133,7 @@
 			"props": {
 				"color": "black",
 				"size": "s",
-				"w": 331.203125,
+				"w": 331.21875,
 				"font": "draw",
 				"textAlign": "start",
 				"autoSize": true,
@@ -49458,7 +50157,7 @@
 											"type": "code"
 										}
 									],
-									"text": "apiVersion: v1"
+									"text": "apiVersion: apps/v1"
 								}
 							]
 						},
@@ -49475,7 +50174,7 @@
 											"type": "code"
 										}
 									],
-									"text": "kind: ReplicationController"
+									"text": "kind: ReplicaSet"
 								}
 							]
 						},
@@ -49509,7 +50208,7 @@
 											"type": "code"
 										}
 									],
-									"text": "  name: myapp-rc"
+									"text": "  name: myapp-replicaset"
 								}
 							]
 						},
@@ -49913,7 +50612,7 @@
 							"content": [
 								{
 									"type": "text",
-									"text": "So how do you make one component accessible by another?. Say for example, how do you make the redis database accessible by the voting app? Should the voting app use the IP address of the Redis Pod? Perhaps no, because that can change. The IP of the pod can change if the pod restarts. And you may also run into issues when you try to scale your applications in the future. The right way to do it is to use a service. Now we learned that a service can be used to expose an application to other applications or users for external access. So we will create a service for the Redis pod so that it can be accessed by the voting app and the worker app."
+									"text": "So how do you make one component accessible by another?. Say for example, how do you make the redis database accessible by the voting app? Should the voting app use the IP address of the Redis Pod? Perhaps no, because that can change. The IP of the pod can change if the pod restarts. And you may also run into issues when you try to scale your applications in the future. The right way to do it is to use a service. Now we learned that a service can be used to expose an application to other applications or users for external access. So we will create a service for the Redis pod so that it can be accessed by the voting app and the worker app. we will call it a Redis service, and it will be accessible anywhere within the cluster by the name of the service Redis. So why is that name important? The source code within the voting app and the worker app are hard coded to point to a Redis database running on a host by the name Redis. So it’s important to name your service as Redis so that these applications can connect to the database. and this is not a best practise to hard code stuff like this withing the source code of an application. Instead you should be using environment variables or something. But for now we will just keep as it is.  These services are not to be accessed outside the cluster. they should just be of type clusterIP. Now the next task is to enable external access. So for this we saw that we could use a service with a type set to nodeport so we create service for voting app and the result app and set their type to nodeport . Now we could decide on what port we are going to make them available on, and it would be a high port with a port number greater than 30,000."
 								}
 							]
 						}
@@ -51295,6 +51994,45 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 81.61973093112056,
+			"y": 2313.274380493509,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:M1P6b0r2IK1gZ_zRjK6yC",
+			"type": "geo",
+			"props": {
+				"w": 343.984375,
+				"h": 234.11718750000003,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:5Tw1sUxTzmJnO9w0HFkVG",
+			"index": "b0AoYQ",
+			"typeName": "shape"
+		},
+		{
 			"x": 22.404895144817147,
 			"y": 16022.742399685347,
 			"rotation": 0,
@@ -51825,8 +52563,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 446.7101809981262,
-			"y": 3164.6938608242217,
+			"x": 504.3315290407317,
+			"y": 3164.8302257258606,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -54190,11 +54928,7 @@
 		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
-			"stylesForNextShape": {
-				"tldraw:size": "s",
-				"tldraw:geo": "rectangle",
-				"tldraw:dash": "draw"
-			},
+			"stylesForNextShape": {},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
@@ -54208,8 +54942,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 1652,
-				"h": 859
+				"w": 1862,
+				"h": 836
 			},
 			"insets": [
 				false,
@@ -54224,7 +54958,7 @@
 			"isChatting": false,
 			"highlightedUserIds": [],
 			"isFocused": true,
-			"devicePixelRatio": 2,
+			"devicePixelRatio": 1,
 			"isCoarsePointer": false,
 			"isHoveringCanvas": true,
 			"openMenus": [],
@@ -54234,7 +54968,7 @@
 			"duplicateProps": null,
 			"cameraState": "idle",
 			"id": "instance:instance",
-			"currentPageId": "page:5Tw1sUxTzmJnO9w0HFkVG",
+			"currentPageId": "page:JovrcF97X_PRHRO9ZdSRz",
 			"typeName": "instance"
 		},
 		{
@@ -54565,6 +55299,57 @@
 			},
 			"parentId": "page:page",
 			"index": "b0yHNU",
+			"typeName": "shape"
+		},
+		{
+			"x": 189.20566843112056,
+			"y": 2831.508755493509,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ke0sBEPrO0qokxkzAQ9Ov",
+			"type": "geo",
+			"props": {
+				"w": 221,
+				"h": 191.7265625,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Google Kubernetes Engine(GKE)"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:5Tw1sUxTzmJnO9w0HFkVG",
+			"index": "b0ItcU",
 			"typeName": "shape"
 		},
 		{
@@ -55305,7 +56090,7 @@
 							"content": [
 								{
 									"type": "text",
-									"text": "we will look at the most popular container available today which is Docker. I had this requirement to set up and end to end application stack, including various different technologies like a web server using node.js and a database such as MongoDB, and a messaging system like Redis, and an orchestration tool like Ansible. We had a lot of issues developing this application stack with all these different components. First of all, their compatability with the underlying OS was an issue. we had to ensure that all these different services were compatible with the version of OS we were planning to use. There have been times when certain versions of these services were not compatible with the OS, and we have had to go back and look at different OS that was compatible  with all of these different services. Secondly, we had to check the compatibility between these services and the libraries and dependencies on the OS. We have had issues where one service requires one version of a dependent library, whereas another service requires another version. The architecture of our application changed over time. We have had to upgrade to newer versions of these components or changge the database, etc. and every time something changed, we had to go through this same process of checking compatibility between these various components and the underlying infrastrucute This compatibility matrix issue is usually referred to as the matrix from hell."
+									"text": "we will look at the most popular container available today which is Docker. I had this requirement to set up and end to end application stack, including various different technologies like a web server using node.js and a database such as MongoDB, and a messaging system like Redis, and an orchestration tool like Ansible. We had a lot of issues developing this application stack with all these different components. First of all, their compatability with the underlying OS was an issue. we had to ensure that all these different services were compatible with the version of OS we were planning to use. There have been times when certain versions of these services were not compatible with the OS, and we have had to go back and look at different OS that was compatible  with all of these different services. Secondly, we had to check the compatibility between these services and the libraries and dependencies on the OS. We have had issues where one service requires one version of a dependent library, whereas another service requires another version. The architecture of our application changed over time. We have had to upgrade to newer versions of these components or change the database, etc. and every time something changed, we had to go through this same process of checking compatibility between these various components and the underlying infrastrucute This compatibility matrix issue is usually referred to as the matrix from hell."
 								}
 							]
 						},
@@ -55323,7 +56108,7 @@
 							"content": [
 								{
 									"type": "text",
-									"text": "Next, every time we had anew developer on board, we found it really difficult to set up a new environment. The new developers had to follow a large set of instructions and that run hundreds of commands to finally setup their environments. They had to make sure they were using the right operating system, the right versions of each components, and each developers had to set all that up by himself each time. we also had different developmet, test, and production environments. One developer may be comfortable using one OS, and the others may be comfortable using another one, and so we couldn't guarantee that the application that we were building would run the same way in different environments. And so all of this made our life in developing, building and shipping the application really difficult. "
+									"text": "Next, every time we had a new developer on board, we found it really difficult to set up a new environment. The new developers had to follow a large set of instructions and that run hundreds of commands to finally setup their environments. They had to make sure they were using the right operating system, the right versions of each components, and each developers had to set all that up by himself each time. we also had different developmet, test, and production environments. One developer may be comfortable using one OS, and the others may be comfortable using another one, and so we couldn't guarantee that the application that we were building would run the same way in different environments. And so all of this made our life in developing, building and shipping the application really difficult. "
 								}
 							]
 						}
@@ -56492,7 +57277,7 @@
 							"content": [
 								{
 									"type": "text",
-									"text": "So far we talked about a service mapped to a single pod, but that’s no the case all the time. what do you do when you have multiple pods in a production environment? You have multiple instances of your web application running for high availability and load balancing purposes. In this case, we have multiple similar pods running our web application. They all have the same labels with a key app and set to a value of myapp. The same label is used as a selector during the creating of the service. So when the service is created, it looks for a matching pod with the lable and finds three of them. The service then automatically selects all the three pods as end points to forward the external requests coming from the user. You don’t have to do any additional configuration to make this happen. And if you are wondering what algorithm it uses to balance the load across the three different pods, it uses a random algorithm. Thus, the service acts as a built in load balancer to distribute load across different pods."
+									"text": "So far we talked about a service mapped to a single pod, but that’s not the case all the time. what do you do when you have multiple pods in a production environment? You have multiple instances of your web application running for high availability and load balancing purposes. In this case, we have multiple similar pods running our web application. They all have the same labels with a key app and set to a value of myapp. The same label is used as a selector during the creating of the service. So when the service is created, it looks for a matching pod with the lable and finds three of them. The service then automatically selects all the three pods as end points to forward the external requests coming from the user. You don’t have to do any additional configuration to make this happen. And if you are wondering what algorithm it uses to balance the load across the three different pods, it uses a random algorithm. Thus, the service acts as a built in load balancer to distribute load across different pods."
 								}
 							]
 						}
@@ -58884,9 +59669,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 139.60521506384822,
-			"y": 1130.602889046799,
-			"z": 0.9267264179808539,
+			"x": 83.79893727952341,
+			"y": -7509.559636310449,
+			"z": 0.9683340692445044,
 			"meta": {},
 			"id": "camera:page:JovrcF97X_PRHRO9ZdSRz",
 			"typeName": "camera"
@@ -59386,6 +60171,144 @@
 			},
 			"parentId": "page:f68luzkeSOzKLbQERhXxs",
 			"index": "b6YVDf",
+			"typeName": "shape"
+		},
+		{
+			"x": 92.59629343112056,
+			"y": 2365.688442993509,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:wrcbCpgaaVUB6t0PXIeq3",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 319.07421875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "You Provision VMs"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "You configure VMs"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "You use Scripts to deploy Cluster"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "You maintain VMs yourself"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "E.g: Kubernetes on AWS using Kops or kubeOne"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:5Tw1sUxTzmJnO9w0HFkVG",
+			"index": "b0E3sv",
 			"typeName": "shape"
 		},
 		{
@@ -61776,8 +62699,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 686.2577594892058,
-			"y": 3161.0584762523786,
+			"x": 743.8791075318113,
+			"y": 3161.1948411540175,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -64044,8 +64967,50 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 3.104105931120557,
+			"y": 2583.040005493509,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:s9XUZ9BE9pcmEwgS2Dkcf",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 1463.81640625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "We will look at deploying our example voting application on the google Kubernetes Engine, On google cloud, the Azure Kubernetes Service, and the AWS EKS solutions. Now note that each of these require it’s own separate course, and we will only be looking at the the simplest way of getting started with these. A lot of concepts that we learned throughout this course about Kubernetes itself don’t change and are applicable to any of these Kubernetes environments. All that we will be doing is provision a managed Kubernetes cluster and reuse the deployment and service defination files that we created, and see how we can deploy the same application on all of these different platforms."
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:5Tw1sUxTzmJnO9w0HFkVG",
+			"index": "b0GGnQ",
+			"typeName": "shape"
+		},
+		{
 			"x": 170.0893220604903,
-			"y": 17124.849115412988,
+			"y": 17115.389584678298,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -64054,7 +65019,7 @@
 			"type": "geo",
 			"props": {
 				"w": 256.5546875,
-				"h": 25.671875,
+				"h": 35.131405734689906,
 				"geo": "rectangle",
 				"dash": "draw",
 				"growY": 0,
